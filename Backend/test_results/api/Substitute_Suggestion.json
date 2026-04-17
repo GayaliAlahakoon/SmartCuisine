@@ -1,0 +1,53 @@
+[
+  {
+    "timestamp": "2025-10-16T22:30:30.373794",
+    "result": {
+      "original_ingredient": "eggs",
+      "recipe_name": "Almond Cake",
+      "substitute": "Ground Flaxseed 'Egg'",
+      "ratio": "For each large egg, combine 1 tablespoon of finely ground flaxseed meal with 3 tablespoons of water. Whisk well and let sit for 5-10 minutes until it thickens to a gel-like, egg-like consistency before adding to the recipe.",
+      "notes": "Flaxseed 'eggs' are excellent binders and add moisture, which are crucial for an almond cake. However, they do not provide the same leavening properties as eggs, so the cake may be slightly denser. Ensure your recipe includes adequate baking powder or baking soda for lift. The flaxseed may also impart a subtle nutty flavor and a slightly darker, speckled appearance to the cake's crumb. Do not overmix the batter.",
+      "alternative_options": [
+        "Unsweetened Applesauce (1/4 cup per egg, may make the cake very moist and slightly denser)",
+        "Mashed Ripe Banana (1/4 cup per egg, adds moisture and binding but will impart a distinct banana flavor)",
+        "Commercial Egg Replacer (follow package instructions carefully for best results, often good for lift and binding)"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:20:39.435485",
+    "result": {
+      "original_ingredient": "eggs",
+      "recipe_name": "Almond Cake",
+      "substitute": "Flax Egg",
+      "ratio": "1 tablespoon ground flaxseed + 3 tablespoons water per large egg",
+      "notes": "Mix the ground flaxseed with water and let it sit for 5-10 minutes until it forms a thick, gel-like consistency. This acts as a binder, mimicking some of the egg's emulsifying properties. It can impart a slightly nutty flavor and may result in a slightly denser crumb compared to using eggs. Ensure your recipe has sufficient chemical leavening (baking powder/soda) as flax eggs do not provide leavening. For best results, use freshly ground flaxseed.",
+      "alternative_options": [
+        "Aquafaba",
+        "Mashed Ripe Banana",
+        "Commercial Egg Replacer"
+      ]
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:52:21.941380",
+    "result": {
+      "original_ingredient": "eggs",
+      "recipe_name": "Almond Cake",
+      "substitute": "Flax Egg (Ground Flaxseed Meal + Water)",
+      "ratio": "For each egg, combine 1 tablespoon of finely ground flaxseed meal with 3 tablespoons of water. Whisk well and let sit for 5-10 minutes until it forms a gel-like consistency.",
+      "notes": "Flax eggs work well as a binder and add a subtle nutty flavor which complements almond cake. The cake may be slightly denser and have a slightly less 'airy' crumb than with traditional eggs, but it will still be moist and delicious. Ensure the flaxseed is finely ground for best results. It may also give the cake a slightly darker hue. Do not exceed more than 3-4 flax eggs in a recipe, as it can significantly alter the texture.",
+      "alternative_options": [
+        "Commercial Egg Replacer Powder (e.g., Bob's Red Mill Egg Replacer)",
+        "Mashed Banana (ripe, works well for moisture and binding, but adds banana flavor)",
+        "Unsweetened Applesauce (adds moisture, use less sugar in the recipe, may make the cake denser)"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-03-07T13:45:54.539676",
+    "result": {
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /substitute (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+    }
+  }
+]

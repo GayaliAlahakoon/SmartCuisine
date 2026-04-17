@@ -1,0 +1,964 @@
+[
+  {
+    "timestamp": "2025-10-16T22:29:16.877291",
+    "result": {
+      "path": "Quick Recipes",
+      "input_ingredients": [
+        "sugar",
+        "pistachio nuts",
+        "white almond bark",
+        "flour",
+        "vanilla extract",
+        "olive oil",
+        "almond extract",
+        "eggs",
+        "baking powder",
+        "dried cranberries"
+      ],
+      "recipes": [
+        {
+          "name": "Dolce Verde Cranberry Biscotti",
+          "cooking_time": "60 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "3/4 cup granulated sugar",
+            "1 tsp baking powder",
+            "1/4 tsp salt",
+            "2 large eggs",
+            "1 tsp vanilla extract",
+            "1/2 tsp almond extract",
+            "1/2 cup shelled pistachio nuts, roughly chopped",
+            "1/2 cup dried cranberries",
+            "4 oz white almond bark"
+          ],
+          "steps": [
+            "Preheat oven to 350\u00b0F (175\u00b0C). Line a baking sheet with parchment paper.",
+            "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+            "In a separate bowl, lightly beat eggs with vanilla and almond extracts. Add wet ingredients to dry and mix until a shaggy dough forms.",
+            "Fold in chopped pistachios and dried cranberries until evenly distributed. Turn dough out onto a lightly floured surface and knead briefly until it comes together.",
+            "Divide dough in half. Shape each half into a log, approximately 10-12 inches long and 1.5-2 inches wide. Place logs on the prepared baking sheet.",
+            "Bake for 25-30 minutes, or until golden brown and firm. Remove from oven and reduce temperature to 300\u00b0F (150\u00b0C).",
+            "Let logs cool for 10-15 minutes, then carefully transfer to a cutting board. Using a serrated knife, slice each log into 1/2-inch thick pieces. Lay slices cut-side down on the baking sheet.",
+            "Return to oven and bake for another 15-20 minutes, flipping halfway, until dry and crisp. Let cool completely. Melt white almond bark according to package directions and drizzle over cooled biscotti."
+          ],
+          "allergens": {
+            "2 cups all-purpose flour": [],
+            "3/4 cup granulated sugar": [],
+            "1 tsp baking powder": [],
+            "1/4 tsp salt": [
+              "tree nuts",
+              "fish"
+            ],
+            "2 large eggs": [
+              "eggs"
+            ],
+            "1 tsp vanilla extract": [
+              "soybeans"
+            ],
+            "1/2 tsp almond extract": [
+              "tree nuts",
+              "fish"
+            ],
+            "1/2 cup shelled pistachio nuts, roughly chopped": [
+              "tree nuts"
+            ],
+            "1/2 cup dried cranberries": [],
+            "4 oz white almond bark": [
+              "tree nuts",
+              "fish"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Empanadas Dulces de Pistacho y Ar\u00e1ndano con Glaseado de Almendra",
+          "cooking_time": "75 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 1/2 cups all-purpose flour",
+            "1/4 cup granulated sugar (for dough)",
+            "1 tsp baking powder",
+            "1/2 tsp salt (for dough)",
+            "1/4 cup olive oil (for dough)",
+            "1/2 cup cold water (plus more if needed)",
+            "1 large egg (for egg wash)",
+            "1/2 cup shelled pistachio nuts, finely chopped (for filling)",
+            "1/2 cup dried cranberries, finely chopped (for filling)",
+            "1/4 cup granulated sugar (for filling)",
+            "1/2 tsp almond extract (for filling)",
+            "1/4 tsp vanilla extract (for filling)",
+            "2 tbsp water (for filling)",
+            "3 oz white almond bark (for glaze)",
+            "1 tsp almond extract (for glaze)"
+          ],
+          "steps": [
+            "**Prepare the Dough:** In a large bowl, whisk together flour, 1/4 cup sugar, baking powder, and 1/2 tsp salt. Add 1/4 cup olive oil and mix until crumbly. Gradually add cold water, mixing until a dough forms. Knead on a lightly floured surface for 5-7 minutes until smooth and elastic. Cover and let rest for 30 minutes.",
+            "**Prepare the Filling:** In a small saucepan, combine chopped pistachios, cranberries, 1/4 cup sugar, 1/2 tsp almond extract, 1/4 tsp vanilla extract, and 2 tbsp water. Cook over medium heat for 5-7 minutes, stirring constantly, until the mixture thickens slightly and most of the liquid is absorbed. Remove from heat and let cool completely.",
+            "Preheat oven to 375\u00b0F (190\u00b0C). Line a baking sheet with parchment paper.",
+            "Divide the rested dough into 12 equal pieces. Roll each piece into a 4-5 inch circle. Place a tablespoon of filling on one half of each circle.",
+            "Fold the dough over the filling to create a half-moon shape. Press the edges firmly to seal, then crimp with a fork. Place empanadas on the prepared baking sheet.",
+            "Beat the remaining egg with a tablespoon of water to make an egg wash. Brush the tops of the empanadas with the egg wash.",
+            "Bake for 20-25 minutes, or until golden brown. Let cool slightly on a wire rack.",
+            "**Prepare the Glaze:** Melt white almond bark according to package directions. Stir in 1 tsp almond extract. Drizzle the glaze over the cooled empanadas before serving."
+          ],
+          "allergens": {
+            "2 1/2 cups all-purpose flour": [],
+            "1/4 cup granulated sugar (for dough)": [],
+            "1 tsp baking powder": [],
+            "1/2 tsp salt (for dough)": [],
+            "1/4 cup olive oil (for dough)": [],
+            "1/2 cup cold water (plus more if needed)": [],
+            "1 large egg (for egg wash)": [
+              "eggs"
+            ],
+            "1/2 cup shelled pistachio nuts, finely chopped (for filling)": [
+              "tree nuts"
+            ],
+            "1/2 cup dried cranberries, finely chopped (for filling)": [],
+            "1/4 cup granulated sugar (for filling)": [],
+            "1/2 tsp almond extract (for filling)": [
+              "tree nuts"
+            ],
+            "1/4 tsp vanilla extract (for filling)": [],
+            "2 tbsp water (for filling)": [],
+            "3 oz white almond bark (for glaze)": [
+              "tree nuts"
+            ],
+            "1 tsp almond extract (for glaze)": [
+              "tree nuts"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Gulab Pista Cranberry Cake Bites",
+          "cooking_time": "45 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "1 1/2 cups all-purpose flour",
+            "1 tsp baking powder",
+            "1/2 tsp ground cardamom",
+            "1/4 tsp salt",
+            "1/2 cup granulated sugar",
+            "2 large eggs",
+            "1/2 cup olive oil",
+            "1/2 cup milk",
+            "1 tsp vanilla extract",
+            "1/2 tsp almond extract",
+            "1/2 cup shelled pistachio nuts, finely ground (plus extra for garnish)",
+            "1/2 cup dried cranberries, finely chopped",
+            "3 oz white almond bark (for drizzle/coating)"
+          ],
+          "steps": [
+            "Preheat oven to 350\u00b0F (175\u00b0C). Lightly grease and flour a mini muffin tin or a 8x8 inch baking pan.",
+            "In a large bowl, whisk together flour, baking powder, ground cardamom, and salt.",
+            "In a separate bowl, whisk together sugar, eggs, olive oil, milk, vanilla extract, and almond extract until well combined.",
+            "Pour the wet ingredients into the dry ingredients and mix with a spatula until just combined. Do not overmix.",
+            "Gently fold in the finely ground pistachios and chopped dried cranberries.",
+            "Spoon the batter into the prepared mini muffin tin (filling about 2/3 full) or pour into the 8x8 inch pan.",
+            "Bake for 20-25 minutes for cake bites (or 30-35 minutes for an 8x8 pan), or until a toothpick inserted into the center comes out clean. Let cool completely.",
+            "Melt white almond bark according to package directions. Drizzle over the cooled cake bites and sprinkle with a few extra finely ground pistachios for garnish."
+          ],
+          "allergens": {
+            "1 1/2 cups all-purpose flour": [],
+            "1 tsp baking powder": [],
+            "1/2 tsp ground cardamom": [
+              "fish"
+            ],
+            "1/4 tsp salt": [
+              "tree nuts",
+              "fish"
+            ],
+            "1/2 cup granulated sugar": [],
+            "2 large eggs": [
+              "eggs"
+            ],
+            "1/2 cup olive oil": [],
+            "1/2 cup milk": [
+              "dairy"
+            ],
+            "1 tsp vanilla extract": [
+              "soybeans"
+            ],
+            "1/2 tsp almond extract": [
+              "tree nuts",
+              "fish"
+            ],
+            "1/2 cup shelled pistachio nuts, finely ground (plus extra for garnish)": [
+              "tree nuts"
+            ],
+            "1/2 cup dried cranberries, finely chopped": [],
+            "3 oz white almond bark (for drizzle/coating)": [
+              "tree nuts"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Hua Sheng Tao (Pistachio Blossom) Fried Doughnuts",
+          "cooking_time": "40 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "1/4 cup granulated sugar",
+            "1 1/2 tsp baking powder",
+            "1/2 tsp salt",
+            "1 large egg",
+            "1/2 cup milk",
+            "1 tbsp olive oil (for dough)",
+            "1/2 tsp vanilla extract",
+            "1/4 tsp almond extract",
+            "1/4 cup shelled pistachio nuts, finely ground (for dough and garnish)",
+            "1/4 cup dried cranberries, finely chopped (for dough)",
+            "3-4 cups olive oil (for frying)",
+            "4 oz white almond bark (for glaze)"
+          ],
+          "steps": [
+            "In a large bowl, whisk together flour, sugar, baking powder, salt, finely ground pistachios, and chopped dried cranberries.",
+            "In a separate bowl, whisk together egg, milk, 1 tbsp olive oil, vanilla extract, and almond extract.",
+            "Pour the wet ingredients into the dry ingredients and mix until a sticky dough forms. Knead lightly on a well-floured surface for 2-3 minutes until smooth enough to handle.",
+            "Roll out the dough to about 1/4-inch thickness. Use a small cookie cutter (e.g., 2-inch round) to cut out doughnut shapes. You can also cut into small squares or diamond shapes.",
+            "Heat 3-4 cups of olive oil in a deep pot or Dutch oven over medium heat to 350-375\u00b0F (175-190\u00b0C).",
+            "Carefully drop 3-4 doughnuts into the hot oil (do not overcrowd). Fry for 2-3 minutes per side, or until golden brown and puffed. Remove with a slotted spoon and place on a wire rack lined with paper towels to drain excess oil.",
+            "Let the doughnuts cool slightly. Melt white almond bark according to package directions. You can add a drop of almond extract to the melted bark if desired.",
+            "Dip or drizzle cooled doughnuts with the melted almond bark, and sprinkle with a pinch of finely ground pistachios before the bark sets."
+          ],
+          "allergens": {
+            "2 cups all-purpose flour": [],
+            "1/4 cup granulated sugar": [],
+            "1 1/2 tsp baking powder": [],
+            "1/2 tsp salt": [
+              "tree nuts",
+              "fish"
+            ],
+            "1 large egg": [
+              "eggs"
+            ],
+            "1/2 cup milk": [
+              "dairy"
+            ],
+            "1 tbsp olive oil (for dough)": [],
+            "1/2 tsp vanilla extract": [],
+            "1/4 tsp almond extract": [
+              "tree nuts",
+              "fish"
+            ],
+            "1/4 cup shelled pistachio nuts, finely ground (for dough and garnish)": [
+              "tree nuts"
+            ],
+            "1/4 cup dried cranberries, finely chopped (for dough)": [],
+            "3-4 cups olive oil (for frying)": [],
+            "4 oz white almond bark (for glaze)": [
+              "tree nuts"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Zahra Pista Zayt (Orange Pistachio Olive Oil Cake)",
+          "cooking_time": "55 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "1 3/4 cups all-purpose flour",
+            "1 1/2 tsp baking powder",
+            "1/4 tsp salt",
+            "1 cup granulated sugar",
+            "3 large eggs",
+            "1/2 cup extra virgin olive oil",
+            "1/2 cup milk",
+            "1 tsp vanilla extract",
+            "1/2 tsp almond extract",
+            "1 tsp orange zest",
+            "1/4 cup fresh orange juice",
+            "1/2 cup shelled pistachio nuts, roughly chopped",
+            "1/2 cup dried cranberries",
+            "4 oz white almond bark (for drizzle)",
+            "Optional: 1 tsp orange blossom water"
+          ],
+          "steps": [
+            "Preheat oven to 350\u00b0F (175\u00b0C). Grease and flour a 9-inch round cake pan or a loaf pan.",
+            "In a large bowl, whisk together flour, baking powder, and salt.",
+            "In a separate large bowl, whisk sugar and eggs until light and fluffy (about 2-3 minutes).",
+            "Gradually whisk in the olive oil, milk, vanilla extract, almond extract, orange zest, and orange juice (and orange blossom water, if using) until well combined.",
+            "Pour the wet ingredients into the dry ingredients and mix with a spatula until just combined. Do not overmix.",
+            "Gently fold in the chopped pistachios and dried cranberries.",
+            "Pour the batter into the prepared cake pan. Bake for 40-45 minutes, or until a toothpick inserted into the center comes out clean.",
+            "Let the cake cool in the pan for 10 minutes before inverting onto a wire rack to cool completely. Once cool, melt white almond bark according to package directions and drizzle generously over the cake."
+          ],
+          "allergens": {
+            "1 3/4 cups all-purpose flour": [],
+            "1 1/2 tsp baking powder": [],
+            "1/4 tsp salt": [
+              "tree nuts",
+              "fish"
+            ],
+            "1 cup granulated sugar": [],
+            "3 large eggs": [
+              "eggs"
+            ],
+            "1/2 cup extra virgin olive oil": [],
+            "1/2 cup milk": [
+              "dairy"
+            ],
+            "1 tsp vanilla extract": [
+              "soybeans"
+            ],
+            "1/2 tsp almond extract": [
+              "tree nuts",
+              "fish"
+            ],
+            "1 tsp orange zest": [],
+            "1/4 cup fresh orange juice": [],
+            "1/2 cup shelled pistachio nuts, roughly chopped": [
+              "tree nuts"
+            ],
+            "1/2 cup dried cranberries": [],
+            "4 oz white almond bark (for drizzle)": [
+              "tree nuts"
+            ],
+            "Optional: 1 tsp orange blossom water": []
+          },
+          "has_allergens": true
+        }
+      ],
+      "total_recipes": 5
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:19:18.545617",
+    "result": {
+      "path": "Quick Recipes",
+      "input_ingredients": [
+        "sugar",
+        "pistachio nuts",
+        "white almond bark",
+        "flour",
+        "vanilla extract",
+        "olive oil",
+        "almond extract",
+        "eggs",
+        "baking powder",
+        "dried cranberries"
+      ],
+      "recipes": [
+        {
+          "name": "Tuscan Sunrise Biscotti with White Chocolate Drizzle",
+          "cooking_time": "60 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "\u00be cup granulated sugar",
+            "2 large eggs",
+            "1 tsp baking powder",
+            "1 tsp vanilla extract",
+            "\u00bd tsp almond extract",
+            "\u00bd cup shelled pistachio nuts, roughly chopped",
+            "\u00bd cup dried cranberries, chopped",
+            "Pinch of salt",
+            "1 tbsp olive oil (plus more for greasing)",
+            "4 oz white almond bark, for drizzling"
+          ],
+          "steps": [
+            "Preheat oven to 350\u00b0F (175\u00b0C). Lightly grease a baking sheet with olive oil.",
+            "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+            "In a separate bowl, whisk eggs, vanilla extract, almond extract, and 1 tbsp olive oil until well combined.",
+            "Pour the wet ingredients into the dry ingredients. Mix until a shaggy dough forms, then fold in chopped pistachios and dried cranberries until evenly distributed.",
+            "Divide the dough in half. On the prepared baking sheet, form each half into a log, approximately 10-12 inches long and 2 inches wide.",
+            "Bake for 20-25 minutes, or until golden brown and firm. Remove from oven and reduce temperature to 300\u00b0F (150\u00b0C).",
+            "While still warm, carefully transfer logs to a cutting board. Using a serrated knife, slice each log diagonally into \u00bd-inch thick cookies. Place cookies cut-side down back onto the baking sheet.",
+            "Bake for another 15-20 minutes, flipping halfway through, until dry and crisp. Let cool completely. Melt white almond bark according to package directions and drizzle over the cooled biscotti."
+          ],
+          "allergens": {
+            "2 cups all-purpose flour": [],
+            "\u00be cup granulated sugar": [],
+            "2 large eggs": [
+              "eggs"
+            ],
+            "1 tsp baking powder": [],
+            "1 tsp vanilla extract": [
+              "soybeans"
+            ],
+            "\u00bd tsp almond extract": [
+              "tree nuts",
+              "fish"
+            ],
+            "\u00bd cup shelled pistachio nuts, roughly chopped": [
+              "tree nuts"
+            ],
+            "\u00bd cup dried cranberries, chopped": [],
+            "Pinch of salt": [
+              "dairy",
+              "fish"
+            ],
+            "1 tbsp olive oil (plus more for greasing)": [],
+            "4 oz white almond bark, for drizzling": [
+              "tree nuts"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Fiesta Pistachio Bu\u00f1uelos with Almond Bark Glaze",
+          "cooking_time": "35 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "2 large eggs",
+            "2 tbsp granulated sugar",
+            "1 tsp baking powder",
+            "\u00bd tsp salt",
+            "1 tsp vanilla extract",
+            "\u00bd tsp almond extract",
+            "1/4 cup finely chopped dried cranberries",
+            "1/4 cup finely chopped pistachio nuts",
+            "2 tbsp olive oil (plus 3-4 cups for deep frying)",
+            "4 oz white almond bark",
+            "1/4 cup powdered sugar (for glaze)"
+          ],
+          "steps": [
+            "In a large bowl, combine flour, 2 tbsp granulated sugar, baking powder, and salt. In a separate bowl, whisk eggs, vanilla extract, almond extract, and 2 tbsp olive oil.",
+            "Gradually add the wet ingredients to the dry, mixing until a soft, pliable dough forms. If too sticky, add a little more flour; if too dry, add a tiny bit of water. Knead for 2-3 minutes.",
+            "Divide the dough into 12-15 equal pieces. On a lightly floured surface, roll each piece into a very thin circle (about 4-5 inches in diameter).",
+            "Heat 3-4 cups of olive oil in a deep pan or Dutch oven to 350\u00b0F (175\u00b0C). Fry bu\u00f1uelos one or two at a time for 1-2 minutes per side, until golden brown and crispy. Drain on paper towels.",
+            "While bu\u00f1uelos cool, melt white almond bark according to package directions. Stir in 1/4 cup powdered sugar and 1-2 teaspoons of water to create a thick glaze consistency. Add more water if needed, a few drops at a time.",
+            "Dip each bu\u00f1uelo halfway into the almond bark glaze, or drizzle generously over them. Immediately sprinkle with finely chopped pistachios and dried cranberries before the glaze sets.",
+            "Serve warm or at room temperature."
+          ],
+          "allergens": {
+            "2 cups all-purpose flour": [],
+            "2 large eggs": [
+              "eggs"
+            ],
+            "2 tbsp granulated sugar": [],
+            "1 tsp baking powder": [],
+            "\u00bd tsp salt": [
+              "tree nuts",
+              "fish"
+            ],
+            "1 tsp vanilla extract": [
+              "soybeans"
+            ],
+            "\u00bd tsp almond extract": [
+              "tree nuts",
+              "fish"
+            ],
+            "1/4 cup finely chopped dried cranberries": [],
+            "1/4 cup finely chopped pistachio nuts": [
+              "tree nuts"
+            ],
+            "2 tbsp olive oil (plus 3-4 cups for deep frying)": [],
+            "4 oz white almond bark": [
+              "tree nuts",
+              "fish"
+            ],
+            "1/4 cup powdered sugar (for glaze)": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Regal Saffron & Pistachio Halwa",
+          "cooking_time": "30 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "1 cup all-purpose flour",
+            "\u00bd cup granulated sugar",
+            "\u00bc cup olive oil",
+            "1 tsp vanilla extract",
+            "\u00bd tsp almond extract",
+            "\u00bd cup shelled pistachio nuts, chopped (plus more for garnish)",
+            "\u00bc cup dried cranberries, chopped (plus more for garnish)",
+            "2 cups hot water",
+            "Pinch of salt",
+            "\u00bc tsp ground cardamom (optional, common pantry staple)",
+            "Few strands of saffron (optional, for color and flavor)"
+          ],
+          "steps": [
+            "In a small bowl, dissolve saffron strands in 2 tablespoons of the hot water and set aside.",
+            "Heat olive oil in a heavy-bottomed pan or skillet over medium-low heat. Add flour and stir continuously, roasting until the flour turns light golden brown and smells fragrant (about 8-10 minutes). Be careful not to burn it.",
+            "In another pan, combine the remaining hot water, sugar, salt, vanilla extract, almond extract, and cardamom powder (if using). Heat until sugar dissolves, then add the saffron water.",
+            "Gradually pour the hot sugar mixture into the roasted flour mixture, stirring constantly to prevent lumps. The mixture will thicken quickly.",
+            "Continue stirring on low heat until the halwa pulls away from the sides of the pan and has a smooth, pudding-like consistency (about 5-7 minutes).",
+            "Stir in the chopped pistachio nuts and dried cranberries.",
+            "Transfer the halwa to a serving dish. Garnish with additional chopped pistachios and dried cranberries.",
+            "Serve warm or at room temperature. Can be molded into desired shapes if serving for a special occasion."
+          ],
+          "allergens": {
+            "1 cup all-purpose flour": [],
+            "\u00bd cup granulated sugar": [],
+            "\u00bc cup olive oil": [],
+            "1 tsp vanilla extract": [
+              "soybeans"
+            ],
+            "\u00bd tsp almond extract": [
+              "tree nuts",
+              "fish"
+            ],
+            "\u00bd cup shelled pistachio nuts, chopped (plus more for garnish)": [
+              "tree nuts"
+            ],
+            "\u00bc cup dried cranberries, chopped (plus more for garnish)": [],
+            "2 cups hot water": [],
+            "Pinch of salt": [
+              "dairy",
+              "fish"
+            ],
+            "\u00bc tsp ground cardamom (optional, common pantry staple)": [],
+            "Few strands of saffron (optional, for color and flavor)": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Jade Garden Steamed Almond Pistachio Cake",
+          "cooking_time": "45 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "1 \u00bd cups all-purpose flour",
+            "\u00be cup granulated sugar",
+            "3 large eggs",
+            "1 tbsp baking powder",
+            "\u00bd tsp salt",
+            "\u00bc cup olive oil",
+            "1 tsp vanilla extract",
+            "\u00bd tsp almond extract",
+            "\u00bd cup finely ground pistachio nuts",
+            "\u00bc cup finely chopped dried cranberries",
+            "\u00be cup warm water"
+          ],
+          "steps": [
+            "Lightly grease an 8-inch round cake pan or heat-proof bowl. Prepare a steamer by bringing water to a boil.",
+            "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+            "In a separate bowl, whisk eggs until light and frothy. Add olive oil, vanilla extract, almond extract, and warm water; mix well.",
+            "Gradually add the wet ingredients to the dry ingredients, mixing until just combined and smooth. Do not overmix.",
+            "Gently fold in the finely ground pistachio nuts and chopped dried cranberries.",
+            "Pour the batter into the prepared cake pan. Cover the pan tightly with foil or a lid to prevent water from dripping into the cake.",
+            "Place the cake pan in the steamer. Steam over medium-high heat for 30-35 minutes, or until a toothpick inserted into the center comes out clean.",
+            "Carefully remove from the steamer, uncover, and let cool for 10 minutes before inverting onto a wire rack. Serve warm or at room temperature."
+          ],
+          "allergens": {
+            "1 \u00bd cups all-purpose flour": [],
+            "\u00be cup granulated sugar": [],
+            "3 large eggs": [
+              "eggs"
+            ],
+            "1 tbsp baking powder": [],
+            "\u00bd tsp salt": [
+              "tree nuts",
+              "fish"
+            ],
+            "\u00bc cup olive oil": [],
+            "1 tsp vanilla extract": [
+              "soybeans"
+            ],
+            "\u00bd tsp almond extract": [
+              "tree nuts",
+              "fish"
+            ],
+            "\u00bd cup finely ground pistachio nuts": [
+              "tree nuts"
+            ],
+            "\u00bc cup finely chopped dried cranberries": [],
+            "\u00be cup warm water": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Emerald Isle Fritters with Siam Dip",
+          "cooking_time": "30 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "1 \u00bd cups all-purpose flour",
+            "\u00bd cup granulated sugar",
+            "1 large egg",
+            "1 tbsp baking powder",
+            "\u00bd tsp salt",
+            "1 tsp vanilla extract",
+            "\u00bd tsp almond extract",
+            "\u00bd cup milk (common pantry staple)",
+            "\u00bd cup shelled pistachio nuts, roughly chopped",
+            "\u00bd cup dried cranberries, chopped",
+            "3-4 cups olive oil, for frying",
+            "For the Siam Dip:",
+            "1 can (13.5 oz) full-fat coconut milk (common pantry staple)",
+            "\u00bc cup granulated sugar",
+            "\u00bd tsp almond extract",
+            "Pinch of salt"
+          ],
+          "steps": [
+            "In a large bowl, whisk together flour, \u00bd cup sugar, baking powder, and salt.",
+            "In a separate bowl, whisk the egg, milk, vanilla extract, and almond extract until well combined. Gradually add the wet ingredients to the dry, mixing until just combined. Do not overmix; a few lumps are fine.",
+            "Gently fold in the chopped pistachio nuts and dried cranberries into the batter.",
+            "Heat olive oil in a large deep skillet or Dutch oven over medium-high heat to 350\u00b0F (175\u00b0C).",
+            "Carefully drop spoonfuls of batter (about 1-2 tablespoons each) into the hot oil. Fry fritters for 2-3 minutes per side, or until golden brown and cooked through. Do not overcrowd the pan.",
+            "Remove fritters with a slotted spoon and drain on paper towels. Keep warm while you prepare the dip.",
+            "For the Siam Dip: In a small saucepan, combine coconut milk, \u00bc cup sugar, almond extract, and a pinch of salt. Bring to a gentle simmer over medium heat, stirring until sugar dissolves. Cook for 5 minutes, allowing it to slightly thicken.",
+            "Serve the warm fritters immediately with the warm Siam Dip on the side."
+          ],
+          "allergens": {
+            "1 \u00bd cups all-purpose flour": [],
+            "\u00bd cup granulated sugar": [],
+            "1 large egg": [
+              "eggs"
+            ],
+            "1 tbsp baking powder": [],
+            "\u00bd tsp salt": [
+              "tree nuts",
+              "fish"
+            ],
+            "1 tsp vanilla extract": [
+              "soybeans"
+            ],
+            "\u00bd tsp almond extract": [
+              "tree nuts",
+              "fish"
+            ],
+            "\u00bd cup milk (common pantry staple)": [
+              "dairy"
+            ],
+            "\u00bd cup shelled pistachio nuts, roughly chopped": [
+              "tree nuts"
+            ],
+            "\u00bd cup dried cranberries, chopped": [],
+            "3-4 cups olive oil, for frying": [],
+            "For the Siam Dip:": [],
+            "1 can (13.5 oz) full-fat coconut milk (common pantry staple)": [
+              "dairy",
+              "tree nuts"
+            ],
+            "\u00bc cup granulated sugar": [],
+            "Pinch of salt": [
+              "dairy",
+              "fish"
+            ]
+          },
+          "has_allergens": true
+        }
+      ],
+      "total_recipes": 5
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:51:03.047198",
+    "result": {
+      "path": "Quick Recipes",
+      "input_ingredients": [
+        "sugar",
+        "pistachio nuts",
+        "white almond bark",
+        "flour",
+        "vanilla extract",
+        "olive oil",
+        "almond extract",
+        "eggs",
+        "baking powder",
+        "dried cranberries"
+      ],
+      "recipes": [
+        {
+          "name": "Tuscan Sunset Pistachio & Cranberry Cantucci",
+          "cooking_time": "50 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 cups all-purpose flour",
+            "1 cup granulated sugar",
+            "2 large eggs",
+            "1.5 teaspoons baking powder",
+            "0.5 teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "0.5 teaspoon almond extract",
+            "1 tablespoon olive oil",
+            "0.5 cup shelled pistachio nuts, roughly chopped",
+            "0.5 cup dried cranberries, roughly chopped",
+            "4 oz white almond bark"
+          ],
+          "steps": [
+            "Preheat oven to 350\u00b0F (175\u00b0C). Line a baking sheet with parchment paper.",
+            "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+            "In a separate bowl, whisk eggs, vanilla extract, almond extract, and olive oil until well combined. Pour the wet ingredients into the dry ingredients and mix until a shaggy dough forms. Fold in the chopped pistachios and dried cranberries.",
+            "Turn the dough out onto a lightly floured surface and divide it in half. Form each half into a log, approximately 10-12 inches long and 2 inches wide. Place the logs on the prepared baking sheet, spaced apart.",
+            "Bake for 25-30 minutes, or until golden brown and firm to the touch. Remove from oven and let cool on the baking sheet for 10 minutes.",
+            "Reduce oven temperature to 300\u00b0F (150\u00b0C). Transfer the logs to a cutting board. Using a serrated knife, slice the logs diagonally into 0.5-inch thick pieces. Lay the slices cut-side down on the baking sheet.",
+            "Bake for another 15-20 minutes, flipping halfway through, until the cantucci are dry and crisp. Let cool completely on a wire rack.",
+            "Melt the white almond bark according to package directions. Drizzle the melted bark over the cooled cantucci or dip one end of each cantucci. Let set on parchment paper."
+          ],
+          "allergens": {
+            "2 cups all-purpose flour": [],
+            "1 cup granulated sugar": [],
+            "2 large eggs": [
+              "eggs"
+            ],
+            "1.5 teaspoons baking powder": [],
+            "0.5 teaspoon salt": [
+              "fish"
+            ],
+            "1 teaspoon vanilla extract": [
+              "soybeans"
+            ],
+            "0.5 teaspoon almond extract": [
+              "tree nuts"
+            ],
+            "1 tablespoon olive oil": [
+              "soybeans"
+            ],
+            "0.5 cup shelled pistachio nuts, roughly chopped": [
+              "tree nuts"
+            ],
+            "0.5 cup dried cranberries, roughly chopped": [],
+            "4 oz white almond bark": [
+              "fish",
+              "tree nuts"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Mumbai Serenity Pistachio & Cardamom Tea Cake",
+          "cooking_time": "45 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "1.5 cups all-purpose flour",
+            "1 cup granulated sugar",
+            "2 large eggs",
+            "1 teaspoon baking powder",
+            "0.25 teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "0.5 teaspoon almond extract",
+            "0.5 cup olive oil",
+            "0.5 cup milk (dairy or non-dairy)",
+            "0.5 cup shelled pistachio nuts, roughly chopped",
+            "0.5 cup dried cranberries, roughly chopped",
+            "1 teaspoon ground cardamom",
+            "3 oz white almond bark"
+          ],
+          "steps": [
+            "Preheat oven to 350\u00b0F (175\u00b0C). Grease and flour a 9x5 inch loaf pan or an 8x8 inch square pan.",
+            "In a large bowl, whisk together flour, baking powder, salt, and ground cardamom.",
+            "In a separate bowl, whisk together granulated sugar, eggs, olive oil, milk, vanilla extract, and almond extract until well combined.",
+            "Pour the wet ingredients into the dry ingredients and mix until just combined. Do not overmix. Gently fold in the chopped pistachio nuts and dried cranberries.",
+            "Pour the batter into the prepared pan and spread evenly. Bake for 30-35 minutes, or until a wooden skewer inserted into the center comes out clean.",
+            "Remove the cake from the oven and let it cool in the pan for 10 minutes, then transfer to a wire rack to cool completely.",
+            "Melt the white almond bark according to package directions. Drizzle the melted bark generously over the cooled tea cake. Allow the glaze to set before serving."
+          ],
+          "allergens": {
+            "1.5 cups all-purpose flour": [],
+            "1 cup granulated sugar": [],
+            "2 large eggs": [
+              "eggs"
+            ],
+            "1 teaspoon baking powder": [],
+            "0.25 teaspoon salt": [
+              "fish"
+            ],
+            "1 teaspoon vanilla extract": [
+              "soybeans"
+            ],
+            "0.5 teaspoon almond extract": [
+              "tree nuts"
+            ],
+            "0.5 cup olive oil": [],
+            "0.5 cup milk (dairy or non-dairy)": [
+              "dairy"
+            ],
+            "0.5 cup shelled pistachio nuts, roughly chopped": [
+              "tree nuts"
+            ],
+            "0.5 cup dried cranberries, roughly chopped": [],
+            "1 teaspoon ground cardamom": [],
+            "3 oz white almond bark": [
+              "tree nuts"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Fiesta Pistachio Cranberry Churro Bites",
+          "cooking_time": "35 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "1 cup water",
+            "2 tablespoons granulated sugar (for dough)",
+            "0.25 teaspoon salt",
+            "2 tablespoons olive oil (for dough)",
+            "1 cup all-purpose flour",
+            "2 large eggs",
+            "1 teaspoon baking powder",
+            "1 teaspoon vanilla extract",
+            "4 cups olive oil (for frying)",
+            "0.5 cup granulated sugar (for coating)",
+            "1 tablespoon ground cinnamon",
+            "0.25 cup shelled pistachio nuts, finely chopped (for garnish)",
+            "0.25 cup dried cranberries, finely chopped (for garnish)",
+            "4 oz white almond bark",
+            "0.5 teaspoon almond extract (for dipping sauce)"
+          ],
+          "steps": [
+            "In a medium saucepan, combine water, 2 tablespoons sugar, 0.25 teaspoon salt, and 2 tablespoons olive oil. Bring to a rolling boil over medium-high heat.",
+            "Remove from heat and immediately add the flour all at once. Stir vigorously with a wooden spoon until a ball of dough forms and pulls away from the sides of the pan. Let cool for 5 minutes.",
+            "Transfer the dough to a mixing bowl. Add the eggs one at a time, beating well after each addition until fully incorporated. Stir in the baking powder and vanilla extract.",
+            "Heat 4 cups of olive oil in a large deep pot or Dutch oven to 375\u00b0F (190\u00b0C). Place the dough in a piping bag fitted with a large star tip.",
+            "Carefully pipe 1-inch pieces of dough directly into the hot oil, using kitchen shears or a knife to cut the dough. Fry in batches for 2-3 minutes, turning occasionally, until golden brown and cooked through.",
+            "While the churros are hot, toss them in a mixture of 0.5 cup granulated sugar and ground cinnamon until evenly coated. Place on a platter.",
+            "Melt the white almond bark according to package directions. Stir in 0.5 teaspoon almond extract to create a smooth dipping sauce. Serve the churro bites immediately with the warm dipping sauce, garnished with chopped pistachios and dried cranberries."
+          ],
+          "allergens": {
+            "1 cup water": [],
+            "2 tablespoons granulated sugar (for dough)": [],
+            "0.25 teaspoon salt": [
+              "fish"
+            ],
+            "2 tablespoons olive oil (for dough)": [],
+            "1 cup all-purpose flour": [],
+            "2 large eggs": [
+              "eggs"
+            ],
+            "1 teaspoon baking powder": [],
+            "1 teaspoon vanilla extract": [
+              "soybeans"
+            ],
+            "4 cups olive oil (for frying)": [],
+            "0.5 cup granulated sugar (for coating)": [],
+            "1 tablespoon ground cinnamon": [],
+            "0.25 cup shelled pistachio nuts, finely chopped (for garnish)": [
+              "tree nuts"
+            ],
+            "0.25 cup dried cranberries, finely chopped (for garnish)": [],
+            "4 oz white almond bark": [
+              "fish",
+              "tree nuts"
+            ],
+            "0.5 teaspoon almond extract (for dipping sauce)": [
+              "tree nuts"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Jade Garden Steamed Pistachio & Cranberry Fortune Cakes",
+          "cooking_time": "40 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "1.5 cups all-purpose flour",
+            "0.75 cup granulated sugar",
+            "3 large eggs",
+            "1 teaspoon baking powder",
+            "0.25 teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "0.5 teaspoon almond extract",
+            "0.25 cup olive oil",
+            "0.5 cup milk (dairy or non-dairy) or water",
+            "0.5 cup shelled pistachio nuts, roughly chopped",
+            "0.5 cup dried cranberries, roughly chopped",
+            "3 oz white almond bark"
+          ],
+          "steps": [
+            "Prepare a steamer: fill a large pot with about 2 inches of water, bring to a boil. Line small heat-proof ramekins or silicone muffin molds with paper liners or grease them well. (Alternatively, use an 8-inch round cake pan).",
+            "In a large bowl, whisk eggs and granulated sugar until light and fluffy, about 3-4 minutes.",
+            "Add olive oil, milk, vanilla extract, and almond extract to the egg mixture, mixing until well combined.",
+            "In a separate bowl, whisk together flour, baking powder, and salt. Gradually add the dry ingredients to the wet ingredients, mixing until just combined. Do not overmix.",
+            "Gently fold in the chopped pistachio nuts and dried cranberries.",
+            "Divide the batter evenly among the prepared ramekins/molds, filling them about 3/4 full. Place the molds into the steamer basket, ensuring they don't touch each other.",
+            "Steam for 20-25 minutes (or 30-35 minutes for a larger cake), or until a wooden skewer inserted into the center comes out clean. Carefully remove from the steamer and let cool.",
+            "Melt the white almond bark according to package directions. Drizzle the melted bark over the cooled steamed cakes. Let set before serving."
+          ],
+          "allergens": {
+            "1.5 cups all-purpose flour": [],
+            "0.75 cup granulated sugar": [],
+            "3 large eggs": [
+              "eggs"
+            ],
+            "1 teaspoon baking powder": [],
+            "0.25 teaspoon salt": [
+              "fish"
+            ],
+            "1 teaspoon vanilla extract": [
+              "soybeans"
+            ],
+            "0.5 teaspoon almond extract": [
+              "tree nuts"
+            ],
+            "0.25 cup olive oil": [],
+            "0.5 cup milk (dairy or non-dairy) or water": [
+              "dairy"
+            ],
+            "0.5 cup shelled pistachio nuts, roughly chopped": [
+              "tree nuts"
+            ],
+            "0.5 cup dried cranberries, roughly chopped": [],
+            "3 oz white almond bark": [
+              "tree nuts"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Siam Serene Pistachio & Coconut Loaf",
+          "cooking_time": "60 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "1.5 cups all-purpose flour",
+            "1 cup granulated sugar",
+            "2 large eggs",
+            "1 teaspoon baking powder",
+            "0.25 teaspoon salt",
+            "1 teaspoon vanilla extract",
+            "0.5 teaspoon almond extract",
+            "0.5 cup olive oil",
+            "0.5 cup milk (dairy or non-dairy)",
+            "0.5 cup unsweetened desiccated coconut",
+            "0.5 cup shelled pistachio nuts, roughly chopped",
+            "0.5 cup dried cranberries, roughly chopped",
+            "3 oz white almond bark"
+          ],
+          "steps": [
+            "Preheat oven to 350\u00b0F (175\u00b0C). Grease and flour a 9x5 inch loaf pan.",
+            "In a large bowl, whisk together flour, baking powder, salt, and desiccated coconut.",
+            "In a separate bowl, whisk together granulated sugar, eggs, olive oil, milk, vanilla extract, and almond extract until well combined.",
+            "Pour the wet ingredients into the dry ingredients and mix until just combined. Do not overmix. Gently fold in the chopped pistachio nuts and dried cranberries.",
+            "Pour the batter into the prepared loaf pan and spread evenly. Bake for 45-50 minutes, or until a wooden skewer inserted into the center comes out clean.",
+            "Remove the loaf from the oven and let it cool in the pan for 10 minutes, then transfer to a wire rack to cool completely.",
+            "Melt the white almond bark according to package directions. Drizzle the melted bark generously over the cooled loaf. Allow the glaze to set before slicing and serving."
+          ],
+          "allergens": {
+            "1.5 cups all-purpose flour": [],
+            "1 cup granulated sugar": [],
+            "2 large eggs": [
+              "eggs"
+            ],
+            "1 teaspoon baking powder": [],
+            "0.25 teaspoon salt": [
+              "fish"
+            ],
+            "1 teaspoon vanilla extract": [
+              "soybeans"
+            ],
+            "0.5 teaspoon almond extract": [
+              "tree nuts"
+            ],
+            "0.5 cup olive oil": [],
+            "0.5 cup milk (dairy or non-dairy)": [
+              "dairy"
+            ],
+            "0.5 cup unsweetened desiccated coconut": [
+              "tree nuts"
+            ],
+            "0.5 cup shelled pistachio nuts, roughly chopped": [
+              "tree nuts"
+            ],
+            "0.5 cup dried cranberries, roughly chopped": [],
+            "3 oz white almond bark": [
+              "tree nuts"
+            ]
+          },
+          "has_allergens": true
+        }
+      ],
+      "total_recipes": 5
+    }
+  },
+  {
+    "timestamp": "2026-03-07T13:45:52.449416",
+    "result": {
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /quick-recipes (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+    }
+  }
+]

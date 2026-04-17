@@ -1,0 +1,13 @@
+{
+  "api": {
+    "predict_cuisine": null,
+    "quick_recipes": null,
+    "cuisine_recipes": null,
+    "substitute": null
+  },
+  "llm": {
+    "quick_recipes": null,
+    "predict_cuisine": null,
+    "cuisine_recipes": null
+  }
+}

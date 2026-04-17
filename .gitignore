@@ -1,0 +1,30 @@
+# Env
+.env
+.env.local
+*.env
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Models
+*.pkl
+
+# Model folders
+Backend/app/models/
+Models/
+
+# Notebooks
+*.ipynb
+
+# Logs / DB
+*.log
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+
+# Editor
+.vscode/

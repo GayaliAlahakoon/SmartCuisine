@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2025-10-16T22:31:46.102170",
+    "result": {
+      "path": "Cuisine Analysis",
+      "input_ingredients": [
+        "chicken",
+        "soy sauce",
+        "ginger",
+        "rice",
+        "garlic"
+      ],
+      "predictions": [
+        [
+          "chinese",
+          67.0
+        ],
+        [
+          "japanese",
+          26.77
+        ],
+        [
+          "korean",
+          3.75
+        ]
+      ],
+      "message": "Select a cuisine to generate recipes"
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:21:31.874127",
+    "result": {
+      "path": "Cuisine Analysis",
+      "input_ingredients": [
+        "chicken",
+        "soy sauce",
+        "ginger",
+        "rice",
+        "garlic"
+      ],
+      "predictions": [
+        [
+          "chinese",
+          67.0
+        ],
+        [
+          "japanese",
+          26.77
+        ],
+        [
+          "korean",
+          3.75
+        ]
+      ],
+      "message": "Select a cuisine to generate recipes"
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:53:04.888060",
+    "result": {
+      "path": "Cuisine Analysis",
+      "input_ingredients": [
+        "chicken",
+        "soy sauce",
+        "ginger",
+        "rice",
+        "garlic"
+      ],
+      "predictions": [
+        [
+          "chinese",
+          67.0
+        ],
+        [
+          "japanese",
+          26.77
+        ],
+        [
+          "korean",
+          3.75
+        ]
+      ],
+      "message": "Select a cuisine to generate recipes"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T13:45:58.703185",
+    "result": {
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /predict-cuisine (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+    }
+  }
+]

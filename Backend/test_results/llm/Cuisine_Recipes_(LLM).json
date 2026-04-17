@@ -1,0 +1,795 @@
+[
+  {
+    "timestamp": "2025-10-16T22:32:41.533984",
+    "result": {
+      "flow": "Complete Cuisine Analysis Flow",
+      "input_ingredients": [
+        "tofu",
+        "broccoli",
+        "rice",
+        "sesame oil",
+        "ginger"
+      ],
+      "cuisine_predictions": [
+        [
+          "japanese",
+          55.47
+        ],
+        [
+          "chinese",
+          25.69
+        ],
+        [
+          "korean",
+          15.4
+        ]
+      ],
+      "selected_cuisine": "japanese",
+      "recipes": [
+        {
+          "name": "\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u3068\u8c46\u8150\u306e\u80e1\u9ebb\u751f\u59dc\u548c\u3048 (Broccoli to Tofu no Goma Shoga Ae)",
+          "cooking_time": "20 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "Firm tofu: 300g",
+            "Broccoli: 200g",
+            "Fresh ginger: 1 tbsp, grated",
+            "Toasted white sesame seeds: 2 tbsp",
+            "Soy sauce: 2 tbsp",
+            "Rice vinegar: 1 tbsp",
+            "Mirin: 1 tbsp",
+            "Toasted sesame oil: 1 tsp",
+            "Pinch of sugar (optional)"
+          ],
+          "steps": [
+            "Wrap tofu in paper towels, place on a plate, and place a light weight on top (e.g., a small plate) for 15-20 minutes to press out excess water. This removes excess moisture, ensuring better flavor absorption.",
+            "Cut broccoli into small florets. Bring a pot of lightly salted water to a boil, blanch broccoli for 2-3 minutes until tender-crisp. Drain and immediately plunge into ice water to stop cooking and preserve its vibrant green color. Drain well again.",
+            "In a small bowl, whisk together grated ginger, toasted sesame seeds, soy sauce, rice vinegar, mirin, and toasted sesame oil. Add a pinch of sugar if desired for a balanced sweet-savory flavor.",
+            "Crumble the pressed tofu into a large mixing bowl. Add the blanched and well-drained broccoli florets.",
+            "Pour the prepared dressing over the tofu and broccoli. Gently toss to combine, ensuring everything is evenly coated with the flavorful dressing.",
+            "Serve immediately as a refreshing side dish (kobachi) or chill for 15 minutes for flavors to meld further. Best enjoyed fresh."
+          ],
+          "allergens": {
+            "Firm tofu: 300g": [
+              "fish"
+            ],
+            "Broccoli: 200g": [
+              "fish"
+            ],
+            "Fresh ginger: 1 tbsp, grated": [],
+            "Toasted white sesame seeds: 2 tbsp": [
+              "sesame"
+            ],
+            "Soy sauce: 2 tbsp": [
+              "wheat",
+              "soybeans"
+            ],
+            "Rice vinegar: 1 tbsp": [],
+            "Mirin: 1 tbsp": [],
+            "Toasted sesame oil: 1 tsp": [
+              "sesame"
+            ],
+            "Pinch of sugar (optional)": [
+              "fish"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "\u8c46\u8150\u3068\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u751f\u59dc\u716e (Tofu to Broccoli no Shoga Ni)",
+          "cooking_time": "25 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "Firm tofu: 300g",
+            "Broccoli: 150g",
+            "Fresh ginger: 1 piece (about 20g), sliced thinly or julienned",
+            "Dashi stock: 200ml",
+            "Soy sauce: 2 tbsp",
+            "Mirin: 2 tbsp",
+            "Sake: 1 tbsp",
+            "Sugar: 1 tsp",
+            "Toasted sesame oil: 1/2 tsp (for finishing)",
+            "Katakuriko (potato starch): 1 tsp mixed with 1 tbsp water (for thickening, optional)",
+            "Vegetable oil: 1 tbsp (for frying tofu)"
+          ],
+          "steps": [
+            "Press tofu for 15-20 minutes to remove excess water, then cut into 2-3 cm cubes. Pat dry with paper towels to ensure a good sear.",
+            "Cut broccoli into small florets. Blanch in boiling water for 1-2 minutes until bright green, then drain and set aside.",
+            "Heat vegetable oil in a non-stick pan over medium heat. Add the tofu cubes and fry until golden brown and slightly crispy on all sides. Remove from pan and set aside.",
+            "In the same pan (or a clean pot), combine dashi stock, soy sauce, mirin, sake, and sugar. Add the sliced or julienned ginger. Bring the mixture to a gentle simmer.",
+            "Return the fried tofu cubes to the simmering sauce. Cook for 5-7 minutes, allowing the tofu to absorb the savory flavors of the dashi-based broth.",
+            "Add the blanched broccoli to the pan and gently stir to coat. If a slightly thicker sauce is desired, slowly stir in the katakuriko slurry and cook for another 1-2 minutes until the sauce thickens to your preference.",
+            "Drizzle with toasted sesame oil just before serving for an aromatic finish. Serve hot, traditionally alongside freshly steamed Japanese rice."
+          ],
+          "allergens": {
+            "Firm tofu: 300g": [
+              "fish"
+            ],
+            "Broccoli: 150g": [],
+            "Fresh ginger: 1 piece (about 20g), sliced thinly or julienned": [],
+            "Dashi stock: 200ml": [
+              "fish"
+            ],
+            "Soy sauce: 2 tbsp": [
+              "wheat",
+              "soybeans"
+            ],
+            "Mirin: 2 tbsp": [],
+            "Sake: 1 tbsp": [],
+            "Sugar: 1 tsp": [
+              "soybeans",
+              "shellfish"
+            ],
+            "Toasted sesame oil: 1/2 tsp (for finishing)": [
+              "sesame"
+            ],
+            "Katakuriko (potato starch): 1 tsp mixed with 1 tbsp water (for thickening, optional)": [],
+            "Vegetable oil: 1 tbsp (for frying tofu)": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "\u8c46\u8150\u306e\u751f\u59dc\u7167\u308a\u713c\u304d\u4e3c (Tofu no Shoga Teriyaki Don)",
+          "cooking_time": "25 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "Firm tofu: 350g",
+            "Cooked Japanese rice: 2 servings (about 300g)",
+            "Fresh ginger: 1 tbsp, finely grated",
+            "Soy sauce: 3 tbsp",
+            "Mirin: 2 tbsp",
+            "Sake: 1 tbsp",
+            "Sugar: 1 tbsp",
+            "Toasted sesame oil: 1 tsp (for cooking tofu) + 1/2 tsp (for finishing sauce)",
+            "Broccoli florets: 100g (for garnish)",
+            "Green onion: 1 stalk, thinly sliced (for garnish)"
+          ],
+          "steps": [
+            "Press tofu for 20-30 minutes to remove as much water as possible. This is crucial for firming the tofu and allowing it to absorb sauce. Cut into 1-1.5 cm thick slices and pat very dry with paper towels.",
+            "In a small bowl, whisk together soy sauce, mirin, sake, sugar, and grated ginger to create the teriyaki sauce.",
+            "Heat 1 tsp of toasted sesame oil in a non-stick pan over medium-high heat. Add the tofu slices and cook for 3-4 minutes per side until golden brown and slightly crispy.",
+            "Pour the prepared teriyaki sauce over the tofu in the pan. Bring to a simmer and cook, spooning the sauce over the tofu continuously, until the sauce thickens and beautifully glazes the tofu (about 3-5 minutes).",
+            "Meanwhile, blanch broccoli florets in boiling water for 2-3 minutes until tender-crisp and bright green. Drain well.",
+            "Arrange freshly cooked Japanese rice in individual serving bowls. Carefully place the glazed teriyaki tofu slices on top of the rice.",
+            "Drizzle any remaining teriyaki sauce from the pan over the tofu and rice. Garnish with blanched broccoli florets and thinly sliced green onions for color and freshness. Serve immediately."
+          ],
+          "allergens": {
+            "Firm tofu: 350g": [
+              "fish"
+            ],
+            "Cooked Japanese rice: 2 servings (about 300g)": [],
+            "Fresh ginger: 1 tbsp, finely grated": [],
+            "Soy sauce: 3 tbsp": [
+              "wheat",
+              "soybeans"
+            ],
+            "Mirin: 2 tbsp": [],
+            "Sake: 1 tbsp": [],
+            "Sugar: 1 tbsp": [
+              "soybeans"
+            ],
+            "Toasted sesame oil: 1 tsp (for cooking tofu) + 1/2 tsp (for finishing sauce)": [
+              "sesame"
+            ],
+            "Broccoli florets: 100g (for garnish)": [],
+            "Green onion: 1 stalk, thinly sliced (for garnish)": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "\u8c46\u8150\u3068\u308f\u304b\u3081\u306e\u751f\u59dc\u5473\u564c\u6c41 (Tofu to Wakame no Shoga Misoshiru)",
+          "cooking_time": "15 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "Dashi stock: 600ml",
+            "Miso paste (preferably awase miso): 2-3 tbsp (adjust to taste)",
+            "Silken tofu: 150g, cut into 1 cm cubes",
+            "Dried wakame seaweed: 2g",
+            "Fresh ginger: 1/2 tsp, finely grated",
+            "Green onion: 1 stalk, thinly sliced (for garnish)",
+            "(Optional) Toasted sesame oil: a few drops for finishing"
+          ],
+          "steps": [
+            "Rehydrate dried wakame seaweed by soaking it in a small bowl of cold water for 5 minutes. It will expand significantly. Drain well and gently squeeze out any excess water.",
+            "Pour dashi stock into a saucepan and bring it to a gentle simmer over medium heat. It is important not to bring the dashi to a rolling boil.",
+            "Add the cubed silken tofu and the rehydrated wakame to the simmering dashi. Cook for 2-3 minutes until all ingredients are heated through.",
+            "Turn off the heat. Ladle a small amount of the hot dashi into a separate bowl, add the miso paste, and whisk until the miso is fully dissolved and smooth. Return the dissolved miso to the saucepan and stir gently to combine. Never boil miso soup after adding miso, as it diminishes its flavor and aroma.",
+            "Stir in the finely grated ginger into the soup. The ginger provides a subtle, warming aroma.",
+            "Ladle the miso soup into individual serving bowls. Garnish with thinly sliced green onion and, if desired, a few drops of toasted sesame oil for an extra layer of aroma. Serve immediately, typically as part of a traditional Japanese meal alongside steamed rice."
+          ],
+          "allergens": {
+            "Dashi stock: 600ml": [
+              "fish"
+            ],
+            "Miso paste (preferably awase miso): 2-3 tbsp (adjust to taste)": [
+              "fish"
+            ],
+            "Silken tofu: 150g, cut into 1 cm cubes": [],
+            "Dried wakame seaweed: 2g": [],
+            "Fresh ginger: 1/2 tsp, finely grated": [
+              "fish"
+            ],
+            "Green onion: 1 stalk, thinly sliced (for garnish)": [],
+            "(Optional) Toasted sesame oil: a few drops for finishing": [
+              "sesame"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "\u8c46\u8150\u3068\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u751f\u59dc\u80e1\u9ebb\u708a\u304d\u8fbc\u307f\u3054\u98ef (Tofu to Broccoli no Shoga Goma Takikomi Gohan)",
+          "cooking_time": "45 minutes (plus rice soaking time)",
+          "difficulty": "Medium",
+          "ingredients": [
+            "Japanese short-grain rice: 2 cups (360ml)",
+            "Firm tofu: 150g, pressed and diced into 1 cm cubes",
+            "Broccoli: 80g, finely diced (about 0.5 cm pieces)",
+            "Fresh ginger: 1 tbsp, finely julienned",
+            "Dashi stock: 360ml (or water, but dashi is preferred for flavor)",
+            "Soy sauce: 2 tbsp",
+            "Mirin: 1 tbsp",
+            "Sake: 1 tbsp",
+            "Toasted sesame oil: 1 tsp (for cooking) + 1/2 tsp (for finishing)",
+            "Toasted white sesame seeds: 1 tsp (for garnish, optional)"
+          ],
+          "steps": [
+            "Wash the rice thoroughly under cold running water until the water runs clear. Drain and let it soak in cold water for at least 30 minutes, then drain again completely. This ensures even cooking.",
+            "Press tofu for 15 minutes to remove excess water, then dice into 1 cm cubes. Finely dice the broccoli florets into small pieces (about 0.5 cm). Julienne the fresh ginger.",
+            "In the rice cooker pot, combine the drained rice, dashi stock (or water), soy sauce, mirin, sake, and 1 tsp of toasted sesame oil. Stir gently to mix the seasonings with the rice.",
+            "Carefully scatter the diced tofu, finely diced broccoli, and julienned ginger evenly over the top of the rice. Do not stir further after adding these ingredients, as they will cook on top of the rice.",
+            "Close the rice cooker lid and cook the rice using your rice cooker's 'regular' or 'white rice' setting.",
+            "Once the rice cooker signals completion, let the rice rest in the cooker for an additional 10-15 minutes before opening the lid. This allows the flavors to further meld and the rice to firm up.",
+            "Gently fluff the cooked rice with a rice paddle, incorporating the tofu, broccoli, and ginger throughout. Drizzle with an additional 1/2 tsp of toasted sesame oil and sprinkle with toasted white sesame seeds if desired. Serve hot as a complete and flavorful meal."
+          ],
+          "allergens": {
+            "Japanese short-grain rice: 2 cups (360ml)": [],
+            "Firm tofu: 150g, pressed and diced into 1 cm cubes": [],
+            "Broccoli: 80g, finely diced (about 0.5 cm pieces)": [
+              "tree nuts"
+            ],
+            "Fresh ginger: 1 tbsp, finely julienned": [],
+            "Dashi stock: 360ml (or water, but dashi is preferred for flavor)": [],
+            "Soy sauce: 2 tbsp": [
+              "wheat",
+              "soybeans"
+            ],
+            "Mirin: 1 tbsp": [],
+            "Sake: 1 tbsp": [],
+            "Toasted sesame oil: 1 tsp (for cooking) + 1/2 tsp (for finishing)": [
+              "sesame"
+            ],
+            "Toasted white sesame seeds: 1 tsp (for garnish, optional)": [
+              "sesame"
+            ]
+          },
+          "has_allergens": true
+        }
+      ],
+      "total_recipes": 5
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:22:22.829056",
+    "result": {
+      "flow": "Complete Cuisine Analysis Flow",
+      "input_ingredients": [
+        "tofu",
+        "broccoli",
+        "rice",
+        "sesame oil",
+        "ginger"
+      ],
+      "cuisine_predictions": [
+        [
+          "japanese",
+          55.47
+        ],
+        [
+          "chinese",
+          25.69
+        ],
+        [
+          "korean",
+          15.4
+        ]
+      ],
+      "selected_cuisine": "japanese",
+      "recipes": [
+        {
+          "name": "Tofu to Broccoli no Teriyaki-fu Donburi",
+          "cooking_time": "25 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "2 cups cooked Japanese short-grain rice",
+            "1 block (350g) firm or extra-firm tofu",
+            "1 head broccoli (about 250g)",
+            "1 tbsp roasted sesame oil",
+            "1 tsp grated fresh ginger",
+            "2 tbsp soy sauce",
+            "2 tbsp mirin",
+            "1 tbsp sake (optional)",
+            "1 tsp sugar",
+            "1/4 cup dashi stock (or water)",
+            "1 tsp potato starch (katakuriko) mixed with 1 tbsp water (for thickening)",
+            "White sesame seeds, for garnish",
+            "Chopped scallions, for garnish"
+          ],
+          "steps": [
+            "Press the tofu: Wrap tofu in paper towels, place on a plate, and put a heavy object on top for 15-20 minutes to remove excess water. Cut into 1-inch cubes.",
+            "Cut broccoli into small florets. Blanch in boiling salted water for 2-3 minutes until tender-crisp. Drain and set aside.",
+            "In a small bowl, whisk together soy sauce, mirin, sake (if using), sugar, dashi, and grated ginger to create the teriyaki sauce.",
+            "Heat 1 tbsp sesame oil in a large non-stick pan over medium-high heat. Add tofu cubes and pan-fry until golden brown and slightly crispy on all sides, about 5-7 minutes. Remove tofu from pan.",
+            "Pour the teriyaki sauce into the pan. Bring to a simmer, then stir in the potato starch slurry. Cook, stirring constantly, until the sauce thickens. Add the pan-fried tofu and blanched broccoli to the pan, gently tossing to coat them with the sauce.",
+            "Serve immediately over warm Japanese short-grain rice. Garnish with white sesame seeds and chopped scallions."
+          ],
+          "allergens": {
+            "2 cups cooked Japanese short-grain rice": [],
+            "1 block (350g) firm or extra-firm tofu": [],
+            "1 head broccoli (about 250g)": [],
+            "1 tbsp roasted sesame oil": [
+              "sesame"
+            ],
+            "1 tsp grated fresh ginger": [],
+            "2 tbsp soy sauce": [
+              "soybeans",
+              "wheat"
+            ],
+            "2 tbsp mirin": [],
+            "1 tbsp sake (optional)": [],
+            "1 tsp sugar": [
+              "soybeans"
+            ],
+            "1/4 cup dashi stock (or water)": [
+              "fish"
+            ],
+            "1 tsp potato starch (katakuriko) mixed with 1 tbsp water (for thickening)": [],
+            "White sesame seeds, for garnish": [
+              "sesame"
+            ],
+            "Chopped scallions, for garnish": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Tofu to Broccoli no Konbu Dashi Nimono",
+          "cooking_time": "35 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 cups cooked Japanese short-grain rice (for serving)",
+            "1 block (350g) firm tofu",
+            "1 head broccoli (about 250g)",
+            "1 tbsp roasted sesame oil",
+            "1-inch piece fresh ginger, thinly sliced",
+            "2 cups dashi stock (made from 1 piece konbu kelp (4x4 inch) and 1/2 cup katsuobushi - dried bonito flakes; or vegetarian dashi from konbu only)",
+            "3 tbsp soy sauce",
+            "2 tbsp mirin",
+            "1 tbsp sake (optional)"
+          ],
+          "steps": [
+            "Press tofu: Wrap tofu in paper towels, place a heavy object on top for 15-20 minutes. Cut into 1.5-inch thick slices, then halve each slice diagonally into triangles.",
+            "Prepare dashi: If making from scratch, soak konbu in water for 30 min, heat to just before boiling, remove konbu. Add katsuobushi, simmer briefly, strain. Alternatively, use dashi powder diluted in water.",
+            "Heat 1 tbsp sesame oil in a large pot or deep skillet over medium heat. Pan-fry the tofu slices until golden brown on both sides. Remove and set aside.",
+            "Add the dashi stock, soy sauce, mirin, sake (if using), and ginger slices to the same pot. Bring to a gentle simmer. Add the pan-fried tofu.",
+            "Cut broccoli into medium-sized florets. Add to the simmering liquid with the tofu. Ensure broccoli is mostly submerged. Cover and simmer for 10-12 minutes, or until broccoli is tender and flavors have melded.",
+            "Taste and adjust seasoning if needed. Serve hot as a side dish, accompanied by cooked Japanese short-grain rice."
+          ],
+          "allergens": {
+            "2 cups cooked Japanese short-grain rice (for serving)": [],
+            "1 block (350g) firm tofu": [],
+            "1 head broccoli (about 250g)": [],
+            "1 tbsp roasted sesame oil": [
+              "sesame"
+            ],
+            "1-inch piece fresh ginger, thinly sliced": [
+              "fish"
+            ],
+            "2 cups dashi stock (made from 1 piece konbu kelp (4x4 inch) and 1/2 cup katsuobushi - dried bonito flakes; or vegetarian dashi from konbu only)": [
+              "fish"
+            ],
+            "3 tbsp soy sauce": [
+              "soybeans",
+              "wheat"
+            ],
+            "2 tbsp mirin": [],
+            "1 tbsp sake (optional)": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Broccoli to Nameraka Tofu Gomae",
+          "cooking_time": "20 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "2 cups cooked Japanese short-grain rice (for serving)",
+            "1 head broccoli (about 250g)",
+            "1/2 block (175g) silken tofu",
+            "3 tbsp roasted white sesame seeds",
+            "1 tbsp roasted sesame oil",
+            "1 tbsp soy sauce",
+            "1 tsp sugar",
+            "1/2 tsp grated fresh ginger"
+          ],
+          "steps": [
+            "Cut broccoli into small florets. Blanch in boiling salted water for 2-3 minutes until bright green and tender-crisp. Immediately transfer to an ice bath to stop cooking, then drain well and pat dry.",
+            "Toast sesame seeds: In a dry skillet over medium-low heat, toast sesame seeds until fragrant and lightly golden, about 2-3 minutes, stirring constantly. Be careful not to burn them.",
+            "In a mortar and pestle (suribachi) or a food processor, grind the toasted sesame seeds until a paste begins to form. Add the soy sauce, sugar, roasted sesame oil, and grated ginger, and mix well.",
+            "Gently mash the silken tofu with a fork or whisk into the sesame dressing mixture until it's mostly smooth and creamy. A few small lumps are fine for texture.",
+            "Add the blanched broccoli to the dressing and gently toss to coat thoroughly. Ensure all florets are well covered.",
+            "Serve chilled or at room temperature as a refreshing side dish. Best enjoyed with a bowl of warm Japanese short-grain rice."
+          ],
+          "allergens": {
+            "2 cups cooked Japanese short-grain rice (for serving)": [],
+            "1 head broccoli (about 250g)": [],
+            "1/2 block (175g) silken tofu": [
+              "fish"
+            ],
+            "3 tbsp roasted white sesame seeds": [
+              "sesame"
+            ],
+            "1 tbsp roasted sesame oil": [
+              "sesame"
+            ],
+            "1 tbsp soy sauce": [
+              "soybeans",
+              "wheat"
+            ],
+            "1 tsp sugar": [
+              "soybeans"
+            ],
+            "1/2 tsp grated fresh ginger": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Tofu to Broccoli no Shoga Miso Shiru",
+          "cooking_time": "20 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "2 cups cooked Japanese short-grain rice (for serving)",
+            "4 cups dashi stock",
+            "1/2 block (175g) soft or medium tofu, diced into 1/2-inch cubes",
+            "1 cup broccoli florets, small",
+            "3-4 tbsp miso paste (white or awase miso, to taste)",
+            "1 tbsp grated fresh ginger",
+            "1 tsp roasted sesame oil (for aroma, optional)",
+            "2 tbsp chopped scallions, for garnish"
+          ],
+          "steps": [
+            "Pour dashi stock into a pot and bring to a simmer over medium heat.",
+            "Add the small broccoli florets to the simmering dashi. Cook for 2-3 minutes until they are tender-crisp.",
+            "Gently add the diced tofu cubes to the pot. Simmer for another 1-2 minutes to heat through.",
+            "Remove the pot from heat. Ladle a small amount of dashi into a bowl, add the miso paste, and whisk until fully dissolved. Return the dissolved miso to the pot, stirring gently. Do not boil the soup after adding miso, as it diminishes flavor.",
+            "Stir in the grated fresh ginger. Add 1 tsp of roasted sesame oil if desired for a deeper aroma.",
+            "Ladle the miso soup into bowls. Garnish with chopped scallions and serve immediately alongside warm Japanese short-grain rice."
+          ],
+          "allergens": {
+            "2 cups cooked Japanese short-grain rice (for serving)": [],
+            "4 cups dashi stock": [
+              "fish"
+            ],
+            "1/2 block (175g) soft or medium tofu, diced into 1/2-inch cubes": [
+              "fish"
+            ],
+            "1 cup broccoli florets, small": [],
+            "3-4 tbsp miso paste (white or awase miso, to taste)": [
+              "fish"
+            ],
+            "1 tbsp grated fresh ginger": [],
+            "1 tsp roasted sesame oil (for aroma, optional)": [
+              "sesame"
+            ],
+            "2 tbsp chopped scallions, for garnish": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Tofu Steak to Broccoli no Shoga-Yaki Fu",
+          "cooking_time": "30 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 cups cooked Japanese short-grain rice",
+            "1 block (400g) extra-firm tofu",
+            "1 head broccoli (about 250g)",
+            "2 tbsp roasted sesame oil",
+            "2 tbsp potato starch (katakuriko) or cornstarch",
+            "2 tbsp soy sauce",
+            "2 tbsp mirin",
+            "1 tbsp sake (optional)",
+            "1 tsp sugar",
+            "1.5 tbsp grated fresh ginger",
+            "White sesame seeds, for garnish",
+            "Thinly sliced scallions, for garnish"
+          ],
+          "steps": [
+            "Press tofu: Wrap tofu in several layers of paper towels, place on a plate, and put a heavy object on top for at least 20 minutes to remove excess water. Cut the pressed tofu into 4 equal slices, about 1/2 inch thick.",
+            "Lightly coat each tofu slice evenly with potato starch (or cornstarch). This will create a crispy crust.",
+            "Heat 1 tbsp sesame oil in a large non-stick pan over medium-high heat. Pan-fry the tofu slices for 4-5 minutes per side, until golden brown and crispy. Remove tofu from the pan and set aside.",
+            "Cut broccoli into small florets. Add the remaining 1 tbsp sesame oil to the same pan. Add broccoli florets and stir-fry for 3-5 minutes until tender-crisp and slightly charred. Remove broccoli from the pan.",
+            "In a small bowl, whisk together soy sauce, mirin, sake (if using), sugar, and grated fresh ginger. Pour this sauce into the hot pan and bring to a simmer, stirring constantly, until it slightly thickens.",
+            "Return the crispy tofu steaks to the pan, turning them gently to coat evenly with the ginger-soy sauce. Quickly add the stir-fried broccoli back to the pan and toss to coat.",
+            "Serve the tofu steaks and broccoli immediately over warm Japanese short-grain rice. Garnish with white sesame seeds and thinly sliced scallions."
+          ],
+          "allergens": {
+            "2 cups cooked Japanese short-grain rice": [],
+            "1 block (400g) extra-firm tofu": [],
+            "1 head broccoli (about 250g)": [],
+            "2 tbsp roasted sesame oil": [
+              "sesame"
+            ],
+            "2 tbsp potato starch (katakuriko) or cornstarch": [],
+            "2 tbsp soy sauce": [
+              "soybeans",
+              "wheat"
+            ],
+            "2 tbsp mirin": [],
+            "1 tbsp sake (optional)": [],
+            "1 tsp sugar": [
+              "soybeans"
+            ],
+            "1.5 tbsp grated fresh ginger": [],
+            "White sesame seeds, for garnish": [
+              "sesame"
+            ],
+            "Thinly sliced scallions, for garnish": []
+          },
+          "has_allergens": true
+        }
+      ],
+      "total_recipes": 5
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:53:55.947673",
+    "result": {
+      "flow": "Complete Cuisine Analysis Flow",
+      "input_ingredients": [
+        "tofu",
+        "broccoli",
+        "rice",
+        "sesame oil",
+        "ginger"
+      ],
+      "cuisine_predictions": [
+        [
+          "japanese",
+          55.47
+        ],
+        [
+          "chinese",
+          25.69
+        ],
+        [
+          "korean",
+          15.4
+        ]
+      ],
+      "selected_cuisine": "japanese",
+      "recipes": [
+        {
+          "name": "\u8c46\u8150\u3068\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u716e\u7269",
+          "cooking_time": "25 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "300g firm or medium-firm tofu, drained and pressed",
+            "200g broccoli, cut into florets",
+            "1 thin slice ginger, peeled",
+            "200ml dashi (from kombu/katsuobushi or instant dashi powder)",
+            "2 tbsp soy sauce",
+            "2 tbsp mirin",
+            "1 tbsp sake",
+            "1 tsp sugar (optional)",
+            "Cooked Japanese rice, for serving"
+          ],
+          "steps": [
+            "Cut the pressed tofu into 3cm cubes. Blanch the broccoli florets in boiling water for 1-2 minutes until tender-crisp, then immediately transfer to an ice bath to stop cooking. Drain well.",
+            "In a medium pot or deep skillet, combine the dashi, soy sauce, mirin, sake, and sugar (if using). Add the ginger slice.",
+            "Bring the mixture to a gentle simmer over medium heat.",
+            "Carefully add the tofu cubes to the simmering broth. Reduce the heat to low, cover, and simmer for 10 minutes, allowing the tofu to absorb the flavors.",
+            "Add the blanched broccoli florets to the pot. Gently stir to coat them in the broth.",
+            "Continue to simmer for another 3-5 minutes, uncovered, until the broccoli is heated through and tender, and the flavors are well combined.",
+            "Remove the ginger slice before serving. Serve hot in small bowls, alongside freshly cooked Japanese rice."
+          ],
+          "allergens": {
+            "300g firm or medium-firm tofu, drained and pressed": [
+              "fish"
+            ],
+            "200g broccoli, cut into florets": [],
+            "1 thin slice ginger, peeled": [],
+            "200ml dashi (from kombu/katsuobushi or instant dashi powder)": [],
+            "2 tbsp soy sauce": [
+              "wheat",
+              "soybeans"
+            ],
+            "2 tbsp mirin": [],
+            "1 tbsp sake": [],
+            "1 tsp sugar (optional)": [],
+            "Cooked Japanese rice, for serving": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "\u8c46\u8150\u3068\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u80e1\u9ebb\u548c\u3048",
+          "cooking_time": "20 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "150g silken or soft tofu, well-drained",
+            "200g broccoli, cut into small florets",
+            "3 tbsp roasted white sesame seeds",
+            "2 tbsp soy sauce",
+            "1 tbsp sugar",
+            "\u00bd tsp sesame oil (optional, for aroma)",
+            "Cooked Japanese rice, for serving"
+          ],
+          "steps": [
+            "Blanch the broccoli florets in boiling water for 2-3 minutes until tender-crisp. Drain thoroughly and immediately plunge into an ice bath to maintain color and texture. Drain very well and pat dry.",
+            "In a mortar (suribachi) or a small bowl, grind the roasted white sesame seeds until they release their aroma and become a coarse paste.",
+            "Add soy sauce, sugar, and sesame oil (if using) to the ground sesame seeds. Mix well to create the goma-ae dressing.",
+            "Gently mash the well-drained tofu with a fork or your hands until crumbled. Do not over-mash; some texture is good.",
+            "Combine the mashed tofu and blanched broccoli in a mixing bowl.",
+            "Pour the goma-ae dressing over the tofu and broccoli. Gently toss until all ingredients are evenly coated.",
+            "Serve chilled or at room temperature as a side dish, accompanied by cooked Japanese rice."
+          ],
+          "allergens": {
+            "150g silken or soft tofu, well-drained": [
+              "fish"
+            ],
+            "200g broccoli, cut into small florets": [],
+            "3 tbsp roasted white sesame seeds": [
+              "sesame"
+            ],
+            "2 tbsp soy sauce": [
+              "wheat",
+              "soybeans"
+            ],
+            "1 tbsp sugar": [
+              "soybeans"
+            ],
+            "\u00bd tsp sesame oil (optional, for aroma)": [
+              "sesame"
+            ],
+            "Cooked Japanese rice, for serving": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "\u59dc\u8c46\u8150\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u4e3c",
+          "cooking_time": "30 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 bowls (approx. 300g) cooked Japanese rice",
+            "300g firm tofu, drained, pressed, cut into 1.5 cm cubes",
+            "150g broccoli, cut into small florets",
+            "1 tbsp grated ginger",
+            "1 tbsp sesame oil",
+            "150ml dashi",
+            "2 tbsp soy sauce",
+            "2 tbsp mirin",
+            "1 tbsp sake",
+            "1 tsp sugar",
+            "1 tsp potato starch (or cornstarch) mixed with 1 tbsp water",
+            "1 tbsp thinly sliced green onion, for garnish"
+          ],
+          "steps": [
+            "Prepare all ingredients: Press and cube tofu, cut broccoli, grate ginger. In a small bowl, whisk together dashi, soy sauce, mirin, sake, and sugar to make the sauce base.",
+            "Heat sesame oil in a large skillet or frying pan over medium-high heat. Add the tofu cubes and pan-fry until golden brown on all sides, about 5-7 minutes. Remove tofu and set aside.",
+            "Add the broccoli florets to the same pan and stir-fry for 2-3 minutes until bright green and slightly tender. Remove and set aside.",
+            "Add the grated ginger to the pan and saut\u00e9 for 30 seconds until fragrant.",
+            "Pour the prepared sauce base into the pan and bring to a simmer. Add the pan-fried tofu back to the pan.",
+            "Stir the potato starch slurry once more and gradually add it to the simmering sauce, stirring constantly until the sauce thickens to your desired consistency. Add the stir-fried broccoli back to the pan and gently toss to coat.",
+            "Divide the cooked Japanese rice into two donburi bowls. Spoon the ginger tofu and broccoli mixture generously over the rice.",
+            "Garnish with sliced green onion and serve immediately."
+          ],
+          "allergens": {
+            "2 bowls (approx. 300g) cooked Japanese rice": [],
+            "300g firm tofu, drained, pressed, cut into 1.5 cm cubes": [],
+            "150g broccoli, cut into small florets": [],
+            "1 tbsp grated ginger": [],
+            "1 tbsp sesame oil": [
+              "soybeans",
+              "sesame"
+            ],
+            "150ml dashi": [
+              "fish",
+              "tree nuts"
+            ],
+            "2 tbsp soy sauce": [
+              "wheat",
+              "soybeans"
+            ],
+            "2 tbsp mirin": [],
+            "1 tbsp sake": [],
+            "1 tsp sugar": [
+              "soybeans"
+            ],
+            "1 tsp potato starch (or cornstarch) mixed with 1 tbsp water": [],
+            "1 tbsp thinly sliced green onion, for garnish": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "\u8c46\u8150\u3068\u751f\u59dc\u306e\u5473\u564c\u6c41",
+          "cooking_time": "15 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "600ml dashi (from kombu/katsuobushi or instant dashi powder)",
+            "3-4 tbsp miso paste (adjust to taste)",
+            "150g silken or soft tofu, cut into 1.5 cm cubes",
+            "1 tsp grated ginger (or 2-3 thin slices, peeled)",
+            "50g broccoli, very small florets",
+            "1 tbsp thinly sliced green onion, for garnish",
+            "Cooked Japanese rice, for serving"
+          ],
+          "steps": [
+            "Pour dashi into a medium saucepan and bring to a gentle simmer over medium heat. Do not boil vigorously.",
+            "Add the tofu cubes and small broccoli florets to the simmering dashi. Add the grated ginger (or ginger slices).",
+            "Simmer for 3-5 minutes, until the broccoli is tender-crisp. Avoid overcooking the tofu.",
+            "Reduce the heat to low. Ladle a small amount of the hot dashi into a bowl with the miso paste. Whisk until the miso is fully dissolved.",
+            "Carefully pour the dissolved miso back into the saucepan. Stir gently to combine. Do not boil the soup after adding miso, as it diminishes flavor and aroma.",
+            "Taste and adjust miso if needed. Remove ginger slices if you used them instead of grated.",
+            "Ladle the miso soup into individual serving bowls. Garnish with thinly sliced green onion.",
+            "Serve hot, typically alongside cooked Japanese rice."
+          ],
+          "allergens": {
+            "600ml dashi (from kombu/katsuobushi or instant dashi powder)": [],
+            "3-4 tbsp miso paste (adjust to taste)": [
+              "fish"
+            ],
+            "150g silken or soft tofu, cut into 1.5 cm cubes": [
+              "fish"
+            ],
+            "1 tsp grated ginger (or 2-3 thin slices, peeled)": [],
+            "50g broccoli, very small florets": [],
+            "1 tbsp thinly sliced green onion, for garnish": [],
+            "Cooked Japanese rice, for serving": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "\u8c46\u8150\u3068\u30d6\u30ed\u30c3\u30b3\u30ea\u30fc\u306e\u7092\u3081",
+          "cooking_time": "20 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "300g extra-firm tofu, drained, pressed, cut into 2 cm cubes",
+            "200g broccoli, cut into florets",
+            "1 tbsp grated or julienned ginger",
+            "1 tbsp sesame oil",
+            "2 tbsp soy sauce",
+            "2 tbsp mirin",
+            "1 tbsp sake",
+            "1 tsp sugar (optional)",
+            "Cooked Japanese rice, for serving"
+          ],
+          "steps": [
+            "In a small bowl, whisk together soy sauce, mirin, sake, and sugar (if using) to create the stir-fry sauce.",
+            "Heat sesame oil in a large wok or frying pan over medium-high heat. Add the tofu cubes and pan-fry until golden brown and slightly crispy on all sides, about 6-8 minutes. Remove tofu and set aside.",
+            "Add the broccoli florets to the same pan and stir-fry for 3-4 minutes until bright green and slightly tender. If needed, add a tablespoon of water and cover for 1-2 minutes to steam the broccoli slightly.",
+            "Add the grated or julienned ginger to the pan and stir-fry for 30 seconds until fragrant.",
+            "Return the pan-fried tofu to the pan with the broccoli and ginger.",
+            "Pour the prepared stir-fry sauce over all ingredients. Toss gently to coat everything evenly.",
+            "Continue to cook for another 1-2 minutes, stirring, until the sauce slightly reduces and coats the tofu and broccoli.",
+            "Serve immediately in individual bowls, accompanied by freshly cooked Japanese rice."
+          ],
+          "allergens": {
+            "300g extra-firm tofu, drained, pressed, cut into 2 cm cubes": [],
+            "200g broccoli, cut into florets": [],
+            "1 tbsp grated or julienned ginger": [],
+            "1 tbsp sesame oil": [
+              "soybeans",
+              "sesame"
+            ],
+            "2 tbsp soy sauce": [
+              "wheat",
+              "soybeans"
+            ],
+            "2 tbsp mirin": [],
+            "1 tbsp sake": [],
+            "1 tsp sugar (optional)": [],
+            "Cooked Japanese rice, for serving": []
+          },
+          "has_allergens": true
+        }
+      ],
+      "total_recipes": 5
+    }
+  }
+]

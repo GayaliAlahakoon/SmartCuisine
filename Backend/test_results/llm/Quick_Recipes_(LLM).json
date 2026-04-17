@@ -1,0 +1,961 @@
+[
+  {
+    "timestamp": "2025-10-16T22:31:46.069108",
+    "result": {
+      "path": "Quick Recipes",
+      "input_ingredients": [
+        "chicken",
+        "soy sauce",
+        "ginger",
+        "rice",
+        "garlic"
+      ],
+      "recipes": [
+        {
+          "name": "Zesty Ginger-Garlic Chicken Stir-Fry",
+          "cooking_time": "30 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "450g chicken breast (or thighs), cut into bite-sized pieces",
+            "4 tbsp soy sauce (divided)",
+            "2 tbsp fresh ginger, minced (divided)",
+            "4 cloves garlic, minced (divided)",
+            "1.5 cups uncooked long-grain white rice",
+            "2 cups broccoli florets",
+            "1 red bell pepper, sliced",
+            "1 tbsp sesame oil",
+            "2 tbsp vegetable oil (divided)",
+            "1 tbsp cornstarch (divided)",
+            "1 tsp granulated sugar",
+            "1 tbsp rice vinegar",
+            "2 tbsp water or chicken broth",
+            "Salt, to taste",
+            "Black pepper, to taste",
+            "2 green onions, sliced, for garnish (optional)"
+          ],
+          "steps": [
+            "Cook rice according to package instructions. Keep warm.",
+            "Marinate chicken: In a bowl, combine chicken pieces with 1 tbsp soy sauce, 1 tbsp minced ginger, 1 clove minced garlic, 1/2 tbsp cornstarch, salt, and pepper. Set aside for 10 minutes.",
+            "Prepare stir-fry sauce: In a small bowl, whisk together remaining 3 tbsp soy sauce, 1 tbsp minced ginger, 3 cloves minced garlic, 1 tbsp rice vinegar, 1 tsp sugar, remaining 1/2 tbsp cornstarch, and 2 tbsp water or broth.",
+            "Heat 1 tbsp vegetable oil in a large wok or skillet over medium-high heat. Add marinated chicken and stir-fry until cooked through and lightly browned, about 5-7 minutes. Remove chicken from the pan and set aside.",
+            "Add remaining 1 tbsp vegetable oil to the same pan. Add broccoli and red bell pepper, stir-fry for 3-5 minutes until tender-crisp.",
+            "Return cooked chicken to the pan. Pour the prepared stir-fry sauce over the chicken and vegetables. Cook, stirring constantly, until the sauce thickens and coats everything, about 1-2 minutes.",
+            "Stir in sesame oil. Serve immediately over the hot cooked rice, garnished with sliced green onions if desired."
+          ],
+          "allergens": {
+            "450g chicken breast (or thighs), cut into bite-sized pieces": [],
+            "4 tbsp soy sauce (divided)": [
+              "wheat",
+              "soybeans"
+            ],
+            "2 tbsp fresh ginger, minced (divided)": [],
+            "4 cloves garlic, minced (divided)": [],
+            "1.5 cups uncooked long-grain white rice": [],
+            "2 cups broccoli florets": [],
+            "1 red bell pepper, sliced": [],
+            "1 tbsp sesame oil": [
+              "soybeans",
+              "sesame"
+            ],
+            "2 tbsp vegetable oil (divided)": [],
+            "1 tbsp cornstarch (divided)": [],
+            "1 tsp granulated sugar": [],
+            "1 tbsp rice vinegar": [],
+            "2 tbsp water or chicken broth": [],
+            "Salt, to taste": [
+              "eggs"
+            ],
+            "Black pepper, to taste": [],
+            "2 green onions, sliced, for garnish (optional)": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Thai-Inspired Coconut Chili Chicken Rice Bowl",
+          "cooking_time": "35 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "450g boneless, skinless chicken thighs, cut into 1-inch pieces",
+            "3 tbsp soy sauce (divided)",
+            "1 tbsp fresh ginger, grated",
+            "3 cloves garlic, minced (divided)",
+            "1.5 cups uncooked long-grain white rice",
+            "1 can (400ml) full-fat coconut milk",
+            "2 tbsp red curry paste (adjust to spice preference)",
+            "1 tbsp fish sauce",
+            "1 tbsp lime juice",
+            "1 tsp brown sugar",
+            "1 tbsp vegetable oil",
+            "1 cup chicken broth or water (for rice)",
+            "Salt, to taste",
+            "1/4 cup fresh cilantro, chopped, for garnish",
+            "1 red chili, sliced (optional, for extra heat)"
+          ],
+          "steps": [
+            "Rinse rice thoroughly. In a medium saucepan, combine rice with 1 cup chicken broth/water and a pinch of salt. Bring to a boil, then reduce heat to low, cover, and simmer for 15-18 minutes, or until water is absorbed and rice is tender. Keep warm.",
+            "While rice cooks, marinate chicken: In a bowl, combine chicken pieces with 1 tbsp soy sauce, grated ginger, and 1 minced garlic clove. Let sit for 10 minutes.",
+            "Heat vegetable oil in a large skillet or pot over medium heat. Add remaining 2 minced garlic cloves and red curry paste; cook for 1 minute until fragrant.",
+            "Add marinated chicken to the skillet and cook, stirring occasionally, until browned on all sides, about 5-7 minutes.",
+            "Pour in coconut milk, remaining 2 tbsp soy sauce, fish sauce, lime juice, and brown sugar. Bring to a gentle simmer, then reduce heat to low, cover, and cook for 10-12 minutes, or until chicken is cooked through and sauce has thickened slightly.",
+            "Taste and adjust seasoning if needed (add more soy sauce for saltiness, lime for tartness, brown sugar for sweetness).",
+            "Serve the coconut chili chicken over the hot cooked rice. Garnish with fresh cilantro and sliced red chili if desired."
+          ],
+          "allergens": {
+            "450g boneless, skinless chicken thighs, cut into 1-inch pieces": [],
+            "3 tbsp soy sauce (divided)": [
+              "wheat",
+              "soybeans"
+            ],
+            "1 tbsp fresh ginger, grated": [],
+            "3 cloves garlic, minced (divided)": [],
+            "1.5 cups uncooked long-grain white rice": [],
+            "1 can (400ml) full-fat coconut milk": [
+              "tree nuts",
+              "dairy"
+            ],
+            "2 tbsp red curry paste (adjust to spice preference)": [],
+            "1 tbsp fish sauce": [
+              "fish"
+            ],
+            "1 tbsp lime juice": [],
+            "1 tsp brown sugar": [],
+            "1 tbsp vegetable oil": [
+              "soybeans"
+            ],
+            "1 cup chicken broth or water (for rice)": [],
+            "Salt, to taste": [
+              "eggs"
+            ],
+            "1/4 cup fresh cilantro, chopped, for garnish": [],
+            "1 red chili, sliced (optional, for extra heat)": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Smoky Chipotle-Ginger Chicken & Rice Skillet",
+          "cooking_time": "40 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "450g chicken breast (or thighs), cut into 1-inch pieces",
+            "3 tbsp soy sauce (divided)",
+            "1.5 tbsp fresh ginger, grated or finely minced (divided)",
+            "4 cloves garlic, minced (divided)",
+            "1.5 cups uncooked long-grain white rice",
+            "3 cups chicken broth",
+            "1 can (400g) diced tomatoes, undrained",
+            "1 small onion, diced",
+            "1 bell pepper (any color), diced",
+            "1 tsp minced chipotle chili in adobo sauce (or more to taste)",
+            "1 tsp ground cumin (divided)",
+            "0.5 tsp dried oregano",
+            "2 tbsp vegetable oil (divided)",
+            "Salt, to taste",
+            "Black pepper, to taste",
+            "1/4 cup fresh cilantro, chopped, for garnish",
+            "Lime wedges, for serving"
+          ],
+          "steps": [
+            "Marinate chicken: In a bowl, combine chicken pieces with 1 tbsp soy sauce, 0.5 tbsp ginger, 1 minced garlic clove, 0.5 tsp cumin, salt, and pepper. Set aside for at least 10 minutes.",
+            "Heat 1 tbsp vegetable oil in a large, oven-safe skillet or Dutch oven over medium-high heat. Add marinated chicken and cook until lightly browned on all sides, about 5-7 minutes. Remove chicken from the skillet and set aside.",
+            "Add remaining 1 tbsp vegetable oil to the skillet. Add diced onion and cook until softened, about 3-4 minutes. Add bell pepper, remaining 1 tbsp ginger, 3 minced garlic cloves, remaining 0.5 tsp cumin, and oregano. Cook for another 2 minutes until fragrant.",
+            "Stir in rice and cook for 1-2 minutes, stirring to coat the grains. Add diced tomatoes (undrained), chicken broth, remaining 2 tbsp soy sauce, and minced chipotle chili. Bring to a boil.",
+            "Return chicken to the skillet. Stir everything together, reduce heat to low, cover, and simmer for 18-20 minutes, or until rice is tender and liquid is absorbed. If the rice is still too firm, add a little more broth and continue cooking.",
+            "Remove from heat and let stand, covered, for 5 minutes. Fluff with a fork.",
+            "Serve hot, garnished with fresh cilantro and lime wedges."
+          ],
+          "allergens": {
+            "450g chicken breast (or thighs), cut into 1-inch pieces": [],
+            "3 tbsp soy sauce (divided)": [
+              "wheat",
+              "soybeans"
+            ],
+            "1.5 tbsp fresh ginger, grated or finely minced (divided)": [
+              "fish"
+            ],
+            "4 cloves garlic, minced (divided)": [],
+            "1.5 cups uncooked long-grain white rice": [],
+            "3 cups chicken broth": [],
+            "1 can (400g) diced tomatoes, undrained": [],
+            "1 small onion, diced": [],
+            "1 bell pepper (any color), diced": [],
+            "1 tsp minced chipotle chili in adobo sauce (or more to taste)": [],
+            "1 tsp ground cumin (divided)": [],
+            "0.5 tsp dried oregano": [],
+            "2 tbsp vegetable oil (divided)": [],
+            "Salt, to taste": [
+              "eggs"
+            ],
+            "Black pepper, to taste": [],
+            "1/4 cup fresh cilantro, chopped, for garnish": [],
+            "Lime wedges, for serving": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Fragrant Indian-Spiced Chicken Pilaf",
+          "cooking_time": "45 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "500g boneless, skinless chicken thighs, cut into 1.5-inch pieces",
+            "2 tbsp soy sauce (divided)",
+            "3 tbsp fresh ginger, grated or made into a paste (divided)",
+            "4 cloves garlic, minced or made into a paste (divided)",
+            "1.5 cups uncooked Basmati rice",
+            "0.25 cup plain yogurt",
+            "1 large onion, thinly sliced",
+            "1 large tomato, diced",
+            "2.5 cups chicken broth or water",
+            "1.5 tsp garam masala",
+            "0.5 tsp turmeric powder",
+            "1 tsp ground cumin",
+            "1 tsp coriander powder",
+            "2 tbsp vegetable oil or Ghee",
+            "Salt, to taste",
+            "0.25 cup fresh mint leaves, chopped (optional)",
+            "0.25 cup fresh cilantro, chopped, for garnish"
+          ],
+          "steps": [
+            "Wash basmati rice thoroughly and soak in cold water for 20 minutes, then drain well. This helps with fluffy rice.",
+            "Marinate chicken: In a bowl, combine chicken pieces with 1 tbsp soy sauce, 1.5 tbsp ginger paste, 2 cloves garlic paste, yogurt, garam masala, turmeric, cumin, and coriander powder. Mix well and let marinate for at least 20 minutes (or longer in the fridge).",
+            "Heat vegetable oil or ghee in a large pot or Dutch oven over medium heat. Add sliced onion and cook until golden brown and softened, about 8-10 minutes.",
+            "Add remaining 1.5 tbsp ginger paste and 2 cloves garlic paste to the pot. Cook for 1-2 minutes until fragrant, being careful not to burn the garlic.",
+            "Add marinated chicken to the pot and cook, stirring, until the chicken is browned on all sides, about 7-8 minutes.",
+            "Stir in diced tomato and cook for 3-4 minutes until it starts to break down. Pour in chicken broth (or water) and remaining 1 tbsp soy sauce. Bring to a simmer.",
+            "Add the drained rice and salt to taste. Stir gently to combine. Bring back to a gentle simmer, then reduce heat to low, cover tightly, and cook for 15-20 minutes, or until rice is cooked and liquid is absorbed.",
+            "Remove from heat and let stand, covered, for 5-10 minutes. Fluff gently with a fork. Stir in chopped fresh mint if using.",
+            "Serve hot, garnished with fresh cilantro."
+          ],
+          "allergens": {
+            "500g boneless, skinless chicken thighs, cut into 1.5-inch pieces": [],
+            "2 tbsp soy sauce (divided)": [
+              "wheat",
+              "soybeans"
+            ],
+            "3 tbsp fresh ginger, grated or made into a paste (divided)": [],
+            "4 cloves garlic, minced or made into a paste (divided)": [],
+            "1.5 cups uncooked Basmati rice": [],
+            "0.25 cup plain yogurt": [
+              "dairy"
+            ],
+            "1 large onion, thinly sliced": [],
+            "1 large tomato, diced": [],
+            "2.5 cups chicken broth or water": [],
+            "1.5 tsp garam masala": [
+              "fish"
+            ],
+            "0.5 tsp turmeric powder": [],
+            "1 tsp ground cumin": [],
+            "1 tsp coriander powder": [],
+            "2 tbsp vegetable oil or Ghee": [
+              "dairy"
+            ],
+            "Salt, to taste": [
+              "eggs"
+            ],
+            "0.25 cup fresh mint leaves, chopped (optional)": [],
+            "0.25 cup fresh cilantro, chopped, for garnish": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Mediterranean Lemon-Herb Chicken with Ginger-Garlic Pilaf",
+          "cooking_time": "45 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "450g boneless, skinless chicken thighs",
+            "2 tbsp soy sauce",
+            "1 tbsp fresh ginger, grated or finely minced (divided)",
+            "4 cloves garlic, minced (2 for chicken, 2 for rice)",
+            "1.5 cups uncooked long-grain white rice (or Arborio)",
+            "3 cups chicken broth",
+            "1 lemon (juice and zest)",
+            "3 tbsp olive oil (2 for chicken, 1 for rice)",
+            "1 tsp dried oregano",
+            "0.5 tsp dried thyme",
+            "0.5 small onion, finely diced",
+            "Salt, to taste",
+            "Black pepper, to taste",
+            "0.25 cup fresh parsley, chopped, for garnish"
+          ],
+          "steps": [
+            "Marinate chicken: In a bowl, combine chicken thighs with 2 tbsp olive oil, 1 tbsp lemon juice, 1 tsp lemon zest, 2 tbsp soy sauce, 0.5 tbsp grated ginger, 2 cloves minced garlic, oregano, thyme, salt, and pepper. Mix well and let marinate for at least 20 minutes.",
+            "Preheat oven to 200\u00b0C (400\u00b0F).",
+            "Heat 1 tbsp olive oil in an oven-safe skillet or Dutch oven over medium heat. Add diced onion and cook until softened, about 3-4 minutes.",
+            "Add remaining 0.5 tbsp grated ginger and 2 cloves minced garlic to the skillet and cook for 1 minute until fragrant.",
+            "Add rice to the skillet and toast for 2-3 minutes, stirring, until grains are lightly translucent.",
+            "Pour in chicken broth and bring to a simmer. Season with salt and pepper.",
+            "Arrange marinated chicken thighs on top of the simmering rice in the skillet. Cover the skillet tightly with a lid or aluminum foil.",
+            "Transfer the skillet to the preheated oven and bake for 25-30 minutes, or until chicken is cooked through and rice has absorbed all the liquid.",
+            "Remove from oven and let stand, covered, for 5 minutes. Fluff the rice gently with a fork.",
+            "Serve hot, garnished with fresh chopped parsley and a squeeze of fresh lemon juice if desired."
+          ],
+          "allergens": {
+            "450g boneless, skinless chicken thighs": [],
+            "2 tbsp soy sauce": [
+              "wheat",
+              "soybeans"
+            ],
+            "1 tbsp fresh ginger, grated or finely minced (divided)": [],
+            "4 cloves garlic, minced (2 for chicken, 2 for rice)": [],
+            "1.5 cups uncooked long-grain white rice (or Arborio)": [],
+            "3 cups chicken broth": [],
+            "1 lemon (juice and zest)": [],
+            "3 tbsp olive oil (2 for chicken, 1 for rice)": [],
+            "1 tsp dried oregano": [],
+            "0.5 tsp dried thyme": [
+              "fish"
+            ],
+            "0.5 small onion, finely diced": [],
+            "Salt, to taste": [
+              "eggs"
+            ],
+            "Black pepper, to taste": [],
+            "0.25 cup fresh parsley, chopped, for garnish": []
+          },
+          "has_allergens": true
+        }
+      ],
+      "total_recipes": 5
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:21:31.864127",
+    "result": {
+      "path": "Quick Recipes",
+      "input_ingredients": [
+        "chicken",
+        "soy sauce",
+        "ginger",
+        "rice",
+        "garlic"
+      ],
+      "recipes": [
+        {
+          "name": "Golden Dragon Ginger-Garlic Chicken Fried Rice",
+          "cooking_time": "30 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "250g chicken breast, diced",
+            "3 cups cooked white rice (cold, day-old recommended)",
+            "3 tbsp soy sauce",
+            "1 tbsp fresh ginger, minced",
+            "3 cloves garlic, minced",
+            "2 large eggs, whisked",
+            "2 green onions, sliced (white and green parts separated)",
+            "1/2 cup carrots, diced",
+            "1/2 cup frozen peas",
+            "1 tsp sesame oil",
+            "2 tbsp vegetable oil",
+            "Salt to taste",
+            "Black pepper to taste"
+          ],
+          "steps": [
+            "Heat 1 tbsp vegetable oil in a large wok or skillet over medium-high heat. Add diced chicken and cook until browned and cooked through, about 5-7 minutes. Remove chicken and set aside.",
+            "Add remaining 1 tbsp vegetable oil to the wok. Add minced ginger and garlic, stir-fry for 30 seconds until fragrant.",
+            "Push ginger and garlic to one side, pour whisked eggs into the other side. Scramble the eggs, then break them into small pieces and mix with the aromatics.",
+            "Add diced carrots and the white parts of green onions to the wok, stir-fry for 2-3 minutes until slightly tender. Add frozen peas and cook for another minute.",
+            "Add cold rice to the wok, breaking up any clumps. Pour soy sauce over the rice and stir-fry vigorously for 3-5 minutes, ensuring the rice is well coated and heated through.",
+            "Return cooked chicken to the wok. Add the green parts of the green onions. Stir everything together.",
+            "Drizzle with sesame oil, season with salt and pepper to taste, and give one final stir. Serve immediately."
+          ],
+          "allergens": {
+            "250g chicken breast, diced": [],
+            "3 cups cooked white rice (cold, day-old recommended)": [],
+            "3 tbsp soy sauce": [
+              "soybeans",
+              "wheat"
+            ],
+            "1 tbsp fresh ginger, minced": [],
+            "3 cloves garlic, minced": [],
+            "2 large eggs, whisked": [
+              "eggs"
+            ],
+            "2 green onions, sliced (white and green parts separated)": [],
+            "1/2 cup carrots, diced": [],
+            "1/2 cup frozen peas": [],
+            "1 tsp sesame oil": [
+              "soybeans",
+              "sesame"
+            ],
+            "2 tbsp vegetable oil": [],
+            "Salt to taste": [
+              "eggs"
+            ],
+            "Black pepper to taste": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Siam Sunset Ginger-Garlic Chicken & Rice Bowl",
+          "cooking_time": "40 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "4 boneless, skinless chicken thighs, cut into 1-inch pieces",
+            "4 cups cooked jasmine rice",
+            "2 tbsp soy sauce (for marinade and sauce)",
+            "1.5 tbsp fresh ginger, grated or finely minced",
+            "4 cloves garlic, minced",
+            "1 can (400ml) coconut milk",
+            "2 tbsp red curry paste (adjust to spice preference)",
+            "1 tbsp fish sauce",
+            "1 tsp brown sugar",
+            "1 tbsp lime juice",
+            "1 red bell pepper, sliced",
+            "1/2 onion, sliced",
+            "1 tbsp vegetable oil",
+            "Fresh cilantro for garnish",
+            "Optional: Sliced fresh chili for garnish"
+          ],
+          "steps": [
+            "In a bowl, marinate chicken pieces with 1 tbsp soy sauce, 1 tsp grated ginger, and 2 minced garlic cloves for at least 15 minutes.",
+            "Heat vegetable oil in a large skillet or wok over medium-high heat. Add marinated chicken and cook until lightly browned on all sides, about 5-7 minutes. Remove chicken and set aside.",
+            "Reduce heat to medium. Add remaining grated ginger and minced garlic to the skillet and saut\u00e9 for 1 minute until fragrant. Add red curry paste and stir-fry for another minute until aromatic.",
+            "Pour in coconut milk, fish sauce, and brown sugar. Bring to a simmer, stirring well to combine the curry paste.",
+            "Return chicken to the skillet. Add sliced red bell pepper and onion. Simmer for 10-15 minutes, or until chicken is cooked through and vegetables are tender-crisp.",
+            "Stir in lime juice and the remaining 1 tbsp soy sauce. Taste and adjust seasoning if needed (add more fish sauce for savory, sugar for sweet, lime for sour).",
+            "Serve the spicy coconut chicken and vegetables over cooked jasmine rice, garnished with fresh cilantro and optional fresh chili."
+          ],
+          "allergens": {
+            "4 boneless, skinless chicken thighs, cut into 1-inch pieces": [],
+            "4 cups cooked jasmine rice": [],
+            "2 tbsp soy sauce (for marinade and sauce)": [
+              "soybeans"
+            ],
+            "1.5 tbsp fresh ginger, grated or finely minced": [
+              "fish"
+            ],
+            "4 cloves garlic, minced": [],
+            "1 can (400ml) coconut milk": [
+              "dairy",
+              "tree nuts"
+            ],
+            "2 tbsp red curry paste (adjust to spice preference)": [],
+            "1 tbsp fish sauce": [
+              "fish"
+            ],
+            "1 tsp brown sugar": [],
+            "1 tbsp lime juice": [],
+            "1 red bell pepper, sliced": [],
+            "1/2 onion, sliced": [],
+            "1 tbsp vegetable oil": [
+              "soybeans"
+            ],
+            "Fresh cilantro for garnish": [],
+            "Optional: Sliced fresh chili for garnish": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Umami Chicken & Saffron Risotto with Ginger Kiss",
+          "cooking_time": "45 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 chicken breasts, pounded thin",
+            "1 cup Arborio rice",
+            "2 tbsp soy sauce (for glaze and risotto)",
+            "1 tbsp fresh ginger, grated (for glaze) + 1 tsp minced (for risotto)",
+            "3 cloves garlic, 2 minced for risotto, 1 minced for glaze",
+            "4 cups chicken broth, hot",
+            "1/2 cup dry white wine (e.g., Pinot Grigio)",
+            "1/2 onion, finely chopped",
+            "1/2 cup grated Parmesan cheese",
+            "2 tbsp butter",
+            "1 tbsp olive oil",
+            "Salt to taste",
+            "Black pepper to taste",
+            "Small pinch saffron threads (optional)"
+          ],
+          "steps": [
+            "Prepare the chicken glaze: whisk together 1 tbsp soy sauce, 1 tbsp grated ginger, and 1 minced garlic clove. Marinate chicken breasts in this mixture for 10-15 minutes.",
+            "In a large skillet, heat 1 tbsp olive oil over medium-high heat. Sear chicken breasts for 4-5 minutes per side until cooked through and nicely browned. Remove and set aside, keeping warm.",
+            "In a separate heavy-bottomed pot or Dutch oven, melt 1 tbsp butter over medium heat. Add finely chopped onion and saut\u00e9 until softened, about 3-4 minutes. Add 2 minced garlic cloves and 1 tsp minced ginger, cook for another minute until fragrant.",
+            "Add Arborio rice and stir for 1-2 minutes until the edges of the grains become translucent. Pour in white wine and stir until it's completely absorbed.",
+            "Begin adding hot chicken broth, one ladleful at a time, stirring constantly until each addition is absorbed before adding the next. This process will take about 20-25 minutes. If using, dissolve saffron in a bit of hot broth and add it midway.",
+            "Once the rice is creamy and al dente (still a slight bite), remove from heat. Stir in remaining 1 tbsp butter, 1 tbsp soy sauce, and grated Parmesan cheese. Season with salt and pepper to taste.",
+            "Slice the seared ginger-soy chicken and serve immediately over the risotto."
+          ],
+          "allergens": {
+            "2 chicken breasts, pounded thin": [],
+            "1 cup Arborio rice": [],
+            "2 tbsp soy sauce (for glaze and risotto)": [
+              "soybeans"
+            ],
+            "1 tbsp fresh ginger, grated (for glaze) + 1 tsp minced (for risotto)": [],
+            "3 cloves garlic, 2 minced for risotto, 1 minced for glaze": [],
+            "4 cups chicken broth, hot": [],
+            "1/2 cup dry white wine (e.g., Pinot Grigio)": [],
+            "1/2 onion, finely chopped": [],
+            "1/2 cup grated Parmesan cheese": [
+              "dairy"
+            ],
+            "2 tbsp butter": [
+              "dairy"
+            ],
+            "1 tbsp olive oil": [
+              "soybeans"
+            ],
+            "Salt to taste": [
+              "eggs"
+            ],
+            "Black pepper to taste": [],
+            "Small pinch saffron threads (optional)": [
+              "fish"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Zesty Ginger-Garlic Chicken Fajita Bowls",
+          "cooking_time": "35 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "2 chicken breasts, cut into strips",
+            "3 cups cooked brown rice",
+            "2 tbsp soy sauce (for marinade)",
+            "1 tbsp fresh ginger, grated",
+            "4 cloves garlic, minced",
+            "2 tbsp lime juice",
+            "1 tsp chili powder",
+            "1 tsp cumin",
+            "1 tsp paprika",
+            "1 onion, sliced",
+            "2 bell peppers (different colors), sliced",
+            "2 tbsp olive oil",
+            "1/4 cup fresh cilantro, chopped (for garnish)",
+            "Salt to taste",
+            "Black pepper to taste",
+            "Optional toppings: black beans, corn, avocado, salsa, sour cream"
+          ],
+          "steps": [
+            "In a bowl, combine chicken strips with 1 tbsp soy sauce, grated ginger, 2 minced garlic cloves, 1 tbsp lime juice, chili powder, cumin, paprika, salt, and pepper. Marinate for at least 15 minutes.",
+            "Heat 1 tbsp olive oil in a large skillet over medium-high heat. Add marinated chicken and cook until browned and cooked through, about 5-7 minutes. Remove chicken and set aside.",
+            "Add remaining 1 tbsp olive oil to the same skillet. Add sliced onion and bell peppers. Saut\u00e9 for 5-7 minutes until tender-crisp. Add remaining 2 minced garlic cloves and cook for 1 minute more.",
+            "Return cooked chicken to the skillet with the vegetables. Add remaining 1 tbsp soy sauce and 1 tbsp lime juice. Stir well to combine and heat through.",
+            "Assemble the bowls: place cooked brown rice at the base. Top with the ginger-garlic chicken and fajita vegetables.",
+            "Garnish generously with fresh cilantro. Add any desired optional toppings like black beans, corn, avocado, or salsa. Serve warm."
+          ],
+          "allergens": {
+            "2 chicken breasts, cut into strips": [],
+            "3 cups cooked brown rice": [],
+            "2 tbsp soy sauce (for marinade)": [
+              "soybeans"
+            ],
+            "1 tbsp fresh ginger, grated": [],
+            "4 cloves garlic, minced": [],
+            "2 tbsp lime juice": [],
+            "1 tsp chili powder": [],
+            "1 tsp cumin": [],
+            "1 tsp paprika": [],
+            "1 onion, sliced": [],
+            "2 bell peppers (different colors), sliced": [],
+            "2 tbsp olive oil": [],
+            "1/4 cup fresh cilantro, chopped (for garnish)": [],
+            "Salt to taste": [
+              "eggs"
+            ],
+            "Black pepper to taste": [],
+            "Optional toppings: black beans, corn, avocado, salsa, sour cream": [
+              "dairy"
+            ]
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Mogul's Ginger-Garlic Chicken Pilaf",
+          "cooking_time": "50 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "4 boneless, skinless chicken thighs, cut into 1-inch pieces",
+            "1.5 cups Basmati rice, rinsed and soaked for 20 minutes",
+            "1 tbsp soy sauce (for marinade)",
+            "1.5 tbsp fresh ginger, grated or paste",
+            "4 cloves garlic, minced or paste",
+            "1/4 cup Greek yogurt",
+            "1 large onion, thinly sliced",
+            "1 medium tomato, chopped",
+            "2.5 cups chicken broth (or water)",
+            "2 tbsp ghee or vegetable oil",
+            "2 green cardamom pods (whole spices)",
+            "2 cloves (whole spices)",
+            "1 small cinnamon stick (whole spices)",
+            "1 bay leaf (whole spices)",
+            "1 tsp turmeric powder (ground spices)",
+            "1 tsp cumin powder (ground spices)",
+            "1 tsp coriander powder (ground spices)",
+            "1/2 tsp garam masala (ground spices)",
+            "1/4 cup fresh cilantro, chopped (for garnish)",
+            "Salt to taste",
+            "Black pepper to taste"
+          ],
+          "steps": [
+            "In a bowl, marinate chicken pieces with 1 tbsp grated ginger, 2 minced garlic cloves, Greek yogurt, 1 tbsp soy sauce, turmeric powder, cumin powder, coriander powder, salt, and pepper. Let marinate for at least 30 minutes.",
+            "Heat ghee or oil in a heavy-bottomed pot or Dutch oven over medium heat. Add whole spices (cardamom, cloves, cinnamon stick, bay leaf) and saut\u00e9 for 30 seconds until fragrant.",
+            "Add thinly sliced onion and cook until golden brown, about 8-10 minutes, stirring occasionally. Add remaining 0.5 tbsp grated ginger and 2 minced garlic cloves, cook for 1 minute.",
+            "Add chopped tomato and cook until softened and the oil separates, about 3-4 minutes.",
+            "Add the marinated chicken to the pot and cook, stirring, until the chicken pieces are lightly seared on all sides, about 5-7 minutes.",
+            "Drain the soaked Basmati rice and add it to the pot. Stir gently for 1-2 minutes to coat the rice with the spices and chicken.",
+            "Pour in chicken broth (or water) and add garam masala and salt to taste. Bring to a rolling boil, then reduce heat to low, cover tightly, and cook for 15-18 minutes, or until all liquid is absorbed and rice is tender.",
+            "Remove from heat and let it rest, covered, for 5-10 minutes. Fluff gently with a fork. Garnish with fresh cilantro and serve."
+          ],
+          "allergens": {
+            "4 boneless, skinless chicken thighs, cut into 1-inch pieces": [],
+            "1.5 cups Basmati rice, rinsed and soaked for 20 minutes": [],
+            "1 tbsp soy sauce (for marinade)": [
+              "soybeans"
+            ],
+            "1.5 tbsp fresh ginger, grated or paste": [
+              "fish"
+            ],
+            "4 cloves garlic, minced or paste": [],
+            "1/4 cup Greek yogurt": [
+              "dairy"
+            ],
+            "1 large onion, thinly sliced": [],
+            "1 medium tomato, chopped": [],
+            "2.5 cups chicken broth (or water)": [],
+            "2 tbsp ghee or vegetable oil": [
+              "dairy"
+            ],
+            "2 green cardamom pods (whole spices)": [],
+            "2 cloves (whole spices)": [],
+            "1 small cinnamon stick (whole spices)": [],
+            "1 bay leaf (whole spices)": [],
+            "1 tsp turmeric powder (ground spices)": [],
+            "1 tsp cumin powder (ground spices)": [],
+            "1 tsp coriander powder (ground spices)": [],
+            "1/2 tsp garam masala (ground spices)": [],
+            "1/4 cup fresh cilantro, chopped (for garnish)": [],
+            "Salt to taste": [
+              "eggs"
+            ],
+            "Black pepper to taste": []
+          },
+          "has_allergens": true
+        }
+      ],
+      "total_recipes": 5
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:53:04.863255",
+    "result": {
+      "path": "Quick Recipes",
+      "input_ingredients": [
+        "chicken",
+        "soy sauce",
+        "ginger",
+        "rice",
+        "garlic"
+      ],
+      "recipes": [
+        {
+          "name": "Ginger-Garlic Soy Chicken Stir-fry with Steamed Jasmine Rice",
+          "cooking_time": "30 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "2 boneless, skinless chicken breasts (about 340g), cut into 1-inch pieces",
+            "2 tablespoons soy sauce (for marinade)",
+            "1 tablespoon freshly grated ginger (for marinade)",
+            "2 cloves garlic, minced (for marinade)",
+            "1 cup jasmine rice",
+            "2 cups water (for rice)",
+            "1 tablespoon vegetable oil",
+            "1 red bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 carrot, thinly sliced",
+            "2 tablespoons soy sauce (for sauce)",
+            "1 tablespoon brown sugar (optional, for sauce)",
+            "1 teaspoon sesame oil (for sauce)",
+            "1 teaspoon cornstarch dissolved in 2 tablespoons water (for sauce)",
+            "Salt and black pepper to taste"
+          ],
+          "steps": [
+            "In a bowl, combine chicken pieces with 2 tablespoons soy sauce, 1 tablespoon grated ginger, and 2 minced garlic cloves. Marinate for at least 10 minutes.",
+            "Meanwhile, rinse jasmine rice thoroughly. Combine rice and 2 cups water in a pot. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes. Remove from heat and let stand, covered, for 5 minutes.",
+            "Heat vegetable oil in a large skillet or wok over medium-high heat. Add marinated chicken and cook until browned and cooked through, about 5-7 minutes. Remove chicken from the skillet and set aside.",
+            "Add bell pepper, broccoli, and carrot to the same skillet. Stir-fry for 3-5 minutes until vegetables are tender-crisp.",
+            "In a small bowl, whisk together 2 tablespoons soy sauce, optional brown sugar, sesame oil, and the cornstarch slurry.",
+            "Return cooked chicken to the skillet with the vegetables. Pour the sauce mixture over the chicken and vegetables. Stir well and cook for 1-2 minutes until the sauce thickens.",
+            "Season with salt and pepper if needed. Serve immediately over the steamed jasmine rice."
+          ],
+          "allergens": {
+            "2 boneless, skinless chicken breasts (about 340g), cut into 1-inch pieces": [],
+            "2 tablespoons soy sauce (for marinade)": [
+              "soybeans"
+            ],
+            "1 tablespoon freshly grated ginger (for marinade)": [],
+            "2 cloves garlic, minced (for marinade)": [],
+            "1 cup jasmine rice": [],
+            "2 cups water (for rice)": [],
+            "1 tablespoon vegetable oil": [
+              "soybeans"
+            ],
+            "1 red bell pepper, sliced": [],
+            "1 cup broccoli florets": [],
+            "1 carrot, thinly sliced": [],
+            "2 tablespoons soy sauce (for sauce)": [
+              "wheat",
+              "soybeans"
+            ],
+            "1 tablespoon brown sugar (optional, for sauce)": [],
+            "1 teaspoon sesame oil (for sauce)": [
+              "sesame"
+            ],
+            "1 teaspoon cornstarch dissolved in 2 tablespoons water (for sauce)": [],
+            "Salt and black pepper to taste": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Spicy Thai Green Curry Chicken with Fragrant Coconut Rice",
+          "cooking_time": "40 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "450g boneless, skinless chicken thighs, cut into bite-sized pieces",
+            "1 tablespoon soy sauce",
+            "1 tablespoon vegetable oil",
+            "2 tablespoons green curry paste",
+            "1 can (400ml) full-fat coconut milk",
+            "1 cup chicken broth",
+            "1 tablespoon fish sauce",
+            "1 teaspoon grated fresh ginger",
+            "2 cloves garlic, minced",
+            "1 red bell pepper, sliced",
+            "1 cup green beans, trimmed and halved",
+            "1/2 cup bamboo shoots, sliced (optional)",
+            "1 cup jasmine rice",
+            "1 cup water (for rice)",
+            "1/2 cup coconut milk (for rice)",
+            "Fresh basil leaves for garnish",
+            "Lime wedges for serving"
+          ],
+          "steps": [
+            "In a bowl, toss chicken pieces with 1 tablespoon soy sauce. Set aside.",
+            "Combine jasmine rice, 1 cup water, and 1/2 cup coconut milk in a pot. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes. Remove from heat and let stand, covered, for 5 minutes.",
+            "Heat vegetable oil in a large pot or Dutch oven over medium heat. Add green curry paste, grated ginger, and minced garlic. Saut\u00e9 for 1-2 minutes until fragrant.",
+            "Add the chicken pieces and cook, stirring occasionally, until lightly browned, about 5 minutes.",
+            "Pour in the remaining full-fat coconut milk and chicken broth. Bring to a simmer, then add fish sauce. Stir well.",
+            "Add bell pepper, green beans, and bamboo shoots (if using). Continue to simmer for 10-15 minutes, or until the chicken is cooked through and vegetables are tender-crisp.",
+            "Taste and adjust seasoning if needed. Garnish with fresh basil leaves. Serve the green curry hot with the fragrant coconut rice and lime wedges."
+          ],
+          "allergens": {
+            "450g boneless, skinless chicken thighs, cut into bite-sized pieces": [],
+            "1 tablespoon soy sauce": [
+              "wheat",
+              "soybeans"
+            ],
+            "1 tablespoon vegetable oil": [
+              "soybeans"
+            ],
+            "2 tablespoons green curry paste": [],
+            "1 can (400ml) full-fat coconut milk": [
+              "dairy",
+              "tree nuts"
+            ],
+            "1 cup chicken broth": [],
+            "1 tablespoon fish sauce": [
+              "fish"
+            ],
+            "1 teaspoon grated fresh ginger": [],
+            "2 cloves garlic, minced": [],
+            "1 red bell pepper, sliced": [],
+            "1 cup green beans, trimmed and halved": [],
+            "1/2 cup bamboo shoots, sliced (optional)": [],
+            "1 cup jasmine rice": [],
+            "1 cup water (for rice)": [],
+            "1/2 cup coconut milk (for rice)": [
+              "dairy"
+            ],
+            "Fresh basil leaves for garnish": [],
+            "Lime wedges for serving": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Zesty Ginger-Soy Chicken & Garlic Rice Fiesta Bowl",
+          "cooking_time": "35 minutes",
+          "difficulty": "Easy",
+          "ingredients": [
+            "2 boneless, skinless chicken breasts (about 340g), cut into 1/2-inch cubes",
+            "3 tablespoons soy sauce",
+            "1 tablespoon grated fresh ginger",
+            "3 cloves garlic, minced (2 for chicken, 1 for rice)",
+            "1 tablespoon lime juice",
+            "1 teaspoon ground cumin",
+            "1/2 teaspoon chili powder",
+            "1 cup long-grain white rice",
+            "2 cups water (for rice)",
+            "1 tablespoon olive oil",
+            "1/2 red onion, finely diced",
+            "1/2 red bell pepper, diced",
+            "1/2 cup canned black beans, rinsed and drained",
+            "1/2 cup corn kernels (fresh or frozen)",
+            "1/4 cup chopped fresh cilantro",
+            "Salt and black pepper to taste",
+            "Optional: Sliced avocado for serving"
+          ],
+          "steps": [
+            "In a bowl, combine chicken cubes with 2 tablespoons soy sauce, grated ginger, 2 cloves minced garlic, 1 tablespoon lime juice, cumin, and chili powder. Marinate for at least 15 minutes.",
+            "Rinse rice thoroughly. In a medium pot, heat 1/2 tablespoon olive oil over medium heat. Add 1 minced garlic clove and saut\u00e9 for 30 seconds until fragrant. Add rice and stir for 1 minute.",
+            "Pour in 2 cups water, a pinch of salt. Bring to a boil, then reduce heat to low, cover, and simmer for 18 minutes. Remove from heat and let stand, covered, for 5 minutes.",
+            "While rice cooks, heat 1 tablespoon olive oil in a large skillet over medium-high heat. Add marinated chicken and cook, stirring occasionally, until cooked through and lightly browned, about 6-8 minutes. Remove chicken from skillet and set aside.",
+            "In the same skillet, add diced red onion and red bell pepper. Saut\u00e9 for 3-5 minutes until softened. Add black beans and corn, cooking for another 2-3 minutes until heated through.",
+            "Fluff the cooked rice with a fork and stir in the chopped cilantro. Season with salt and pepper to taste.",
+            "Assemble the bowls: spoon the garlic-cilantro rice into bowls, top with the cooked ginger-soy chicken, and the saut\u00e9ed vegetable-bean mixture. Garnish with optional avocado slices."
+          ],
+          "allergens": {
+            "2 boneless, skinless chicken breasts (about 340g), cut into 1/2-inch cubes": [],
+            "3 tablespoons soy sauce": [
+              "wheat",
+              "soybeans"
+            ],
+            "1 tablespoon grated fresh ginger": [],
+            "3 cloves garlic, minced (2 for chicken, 1 for rice)": [],
+            "1 tablespoon lime juice": [],
+            "1 teaspoon ground cumin": [],
+            "1/2 teaspoon chili powder": [],
+            "1 cup long-grain white rice": [],
+            "2 cups water (for rice)": [],
+            "1 tablespoon olive oil": [
+              "soybeans"
+            ],
+            "1/2 red onion, finely diced": [],
+            "1/2 red bell pepper, diced": [],
+            "1/2 cup canned black beans, rinsed and drained": [],
+            "1/2 cup corn kernels (fresh or frozen)": [],
+            "1/4 cup chopped fresh cilantro": [],
+            "Salt and black pepper to taste": [],
+            "Optional: Sliced avocado for serving": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Aromatic Ginger-Garlic Chicken Pilaf (Biryani Style)",
+          "cooking_time": "50 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "450g boneless, skinless chicken thighs, cut into 1-inch pieces",
+            "1 tablespoon soy sauce",
+            "1/2 cup plain yogurt",
+            "1 tablespoon ginger-garlic paste (or 1 tbsp grated ginger + 1 tbsp minced garlic)",
+            "1 teaspoon garam masala",
+            "1/2 teaspoon turmeric powder",
+            "1/2 teaspoon red chili powder (or paprika for less heat)",
+            "1 teaspoon salt",
+            "1 cup basmati rice",
+            "2 tablespoons ghee or vegetable oil",
+            "1 large onion, thinly sliced",
+            "1 cinnamon stick",
+            "2 green cardamom pods, lightly crushed",
+            "2 bay leaves",
+            "1 large tomato, chopped",
+            "2 cups chicken broth or water",
+            "1/4 cup fresh cilantro, chopped (for garnish)"
+          ],
+          "steps": [
+            "In a bowl, combine chicken pieces with soy sauce, yogurt, ginger-garlic paste, garam masala, turmeric, chili powder, and 1/2 teaspoon salt. Marinate for at least 20 minutes.",
+            "Rinse basmati rice thoroughly under cold water until water runs clear. Drain and set aside.",
+            "Heat ghee or oil in a large pot or Dutch oven over medium-high heat. Add sliced onion and cook, stirring occasionally, until golden brown, about 8-10 minutes. Remove a few tablespoons of crispy onion for garnish and set aside.",
+            "Add cinnamon stick, cardamom pods, and bay leaves to the pot. Saut\u00e9 for 30 seconds until fragrant.",
+            "Add the marinated chicken to the pot and cook, stirring, until browned on all sides, about 5-7 minutes.",
+            "Stir in the chopped tomato and cook for 3-4 minutes until it softens and breaks down.",
+            "Add the rinsed basmati rice to the pot, stir gently to combine with the chicken and spices, and cook for 1-2 minutes.",
+            "Pour in the chicken broth or water and add the remaining 1/2 teaspoon salt. Bring to a boil, then reduce heat to low, cover tightly, and simmer for 15-20 minutes, or until all liquid is absorbed and rice is cooked. Let stand, covered, for 5 minutes. Fluff gently with a fork, garnish with fresh cilantro and reserved crispy onions, then serve."
+          ],
+          "allergens": {
+            "450g boneless, skinless chicken thighs, cut into 1-inch pieces": [],
+            "1 tablespoon soy sauce": [
+              "wheat",
+              "soybeans"
+            ],
+            "1/2 cup plain yogurt": [
+              "dairy"
+            ],
+            "1 tablespoon ginger-garlic paste (or 1 tbsp grated ginger + 1 tbsp minced garlic)": [],
+            "1 teaspoon garam masala": [],
+            "1/2 teaspoon turmeric powder": [],
+            "1/2 teaspoon red chili powder (or paprika for less heat)": [],
+            "1 teaspoon salt": [
+              "soybeans"
+            ],
+            "1 cup basmati rice": [],
+            "2 tablespoons ghee or vegetable oil": [
+              "dairy"
+            ],
+            "1 large onion, thinly sliced": [],
+            "1 cinnamon stick": [],
+            "2 green cardamom pods, lightly crushed": [],
+            "2 bay leaves": [],
+            "1 large tomato, chopped": [],
+            "2 cups chicken broth or water": [],
+            "1/4 cup fresh cilantro, chopped (for garnish)": []
+          },
+          "has_allergens": true
+        },
+        {
+          "name": "Creamy Ginger-Garlic Chicken Risotto with Parmesan",
+          "cooking_time": "45 minutes",
+          "difficulty": "Medium",
+          "ingredients": [
+            "2 boneless, skinless chicken thighs (about 250g), diced",
+            "1 tablespoon soy sauce",
+            "1 tablespoon olive oil",
+            "1 tablespoon butter",
+            "1 small onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 teaspoon grated fresh ginger",
+            "1 1/2 cups Arborio rice",
+            "1/2 cup dry white wine (e.g., Pinot Grigio or Chardonnay)",
+            "4 cups hot chicken broth",
+            "1/2 cup grated Parmesan cheese",
+            "2 tablespoons fresh parsley, chopped",
+            "Salt and black pepper to taste"
+          ],
+          "steps": [
+            "In a small bowl, toss diced chicken with soy sauce. Season with a pinch of black pepper.",
+            "Heat 1 tablespoon olive oil in a large skillet or pot over medium-high heat. Add the seasoned chicken and cook until browned and cooked through, about 5-7 minutes. Remove chicken and set aside.",
+            "In the same pot, reduce heat to medium and add butter. Once melted, add chopped onion and saut\u00e9 until softened and translucent, about 3-5 minutes.",
+            "Add minced garlic and grated ginger to the pot. Saut\u00e9 for another minute until fragrant, being careful not to burn the garlic.",
+            "Add Arborio rice to the pot and stir constantly for 1-2 minutes until the edges of the grains become translucent.",
+            "Pour in the white wine and stir until it's completely absorbed by the rice. Begin adding the hot chicken broth, one ladleful at a time, stirring constantly and waiting for each addition to be almost fully absorbed before adding the next. This process will take about 20-25 minutes.",
+            "When the rice is creamy and al dente (still has a slight bite), stir in the cooked chicken, Parmesan cheese, and chopped parsley. Season with salt and black pepper to taste.",
+            "Serve immediately, garnished with extra Parmesan and parsley if desired."
+          ],
+          "allergens": {
+            "2 boneless, skinless chicken thighs (about 250g), diced": [],
+            "1 tablespoon soy sauce": [
+              "wheat",
+              "soybeans"
+            ],
+            "1 tablespoon olive oil": [
+              "soybeans"
+            ],
+            "1 tablespoon butter": [
+              "soybeans",
+              "dairy"
+            ],
+            "1 small onion, finely chopped": [],
+            "2 cloves garlic, minced": [],
+            "1 teaspoon grated fresh ginger": [],
+            "1 1/2 cups Arborio rice": [],
+            "1/2 cup dry white wine (e.g., Pinot Grigio or Chardonnay)": [],
+            "4 cups hot chicken broth": [],
+            "1/2 cup grated Parmesan cheese": [
+              "dairy"
+            ],
+            "2 tablespoons fresh parsley, chopped": [],
+            "Salt and black pepper to taste": []
+          },
+          "has_allergens": true
+        }
+      ],
+      "total_recipes": 5
+    }
+  },
+  {
+    "timestamp": "2026-03-07T13:45:56.612594",
+    "result": {
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /quick-recipes (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+    }
+  }
+]

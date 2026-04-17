@@ -1,0 +1,140 @@
+[
+  {
+    "timestamp": "2025-10-16T22:25:33.877881",
+    "result": {
+      "path": "Cuisine Analysis",
+      "input_ingredients": [
+        "sugar",
+        "pistachio nuts",
+        "white almond bark",
+        "flour",
+        "vanilla extract",
+        "olive oil",
+        "almond extract",
+        "eggs",
+        "baking powder",
+        "dried cranberries"
+      ],
+      "predictions": [
+        [
+          "italian",
+          79.15
+        ],
+        [
+          "southern_us",
+          7.56
+        ],
+        [
+          "japanese",
+          6.08
+        ]
+      ],
+      "message": "Select a cuisine to generate recipes"
+    }
+  },
+  {
+    "timestamp": "2025-10-16T22:27:57.149950",
+    "result": {
+      "path": "Cuisine Analysis",
+      "input_ingredients": [
+        "sugar",
+        "pistachio nuts",
+        "white almond bark",
+        "flour",
+        "vanilla extract",
+        "olive oil",
+        "almond extract",
+        "eggs",
+        "baking powder",
+        "dried cranberries"
+      ],
+      "predictions": [
+        [
+          "italian",
+          79.15
+        ],
+        [
+          "southern_us",
+          7.56
+        ],
+        [
+          "japanese",
+          6.08
+        ]
+      ],
+      "message": "Select a cuisine to generate recipes"
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:18:24.058933",
+    "result": {
+      "path": "Cuisine Analysis",
+      "input_ingredients": [
+        "sugar",
+        "pistachio nuts",
+        "white almond bark",
+        "flour",
+        "vanilla extract",
+        "olive oil",
+        "almond extract",
+        "eggs",
+        "baking powder",
+        "dried cranberries"
+      ],
+      "predictions": [
+        [
+          "italian",
+          79.15
+        ],
+        [
+          "southern_us",
+          7.56
+        ],
+        [
+          "japanese",
+          6.08
+        ]
+      ],
+      "message": "Select a cuisine to generate recipes"
+    }
+  },
+  {
+    "timestamp": "2025-10-17T21:50:03.183937",
+    "result": {
+      "path": "Cuisine Analysis",
+      "input_ingredients": [
+        "sugar",
+        "pistachio nuts",
+        "white almond bark",
+        "flour",
+        "vanilla extract",
+        "olive oil",
+        "almond extract",
+        "eggs",
+        "baking powder",
+        "dried cranberries"
+      ],
+      "predictions": [
+        [
+          "italian",
+          79.15
+        ],
+        [
+          "southern_us",
+          7.56
+        ],
+        [
+          "japanese",
+          6.08
+        ]
+      ],
+      "message": "Select a cuisine to generate recipes"
+    }
+  },
+  {
+    "timestamp": "2026-03-07T13:45:50.367076",
+    "result": {
+      "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /predict-cuisine (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+    }
+  }
+]
